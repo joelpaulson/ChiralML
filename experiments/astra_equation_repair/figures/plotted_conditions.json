@@ -1,0 +1,174 @@
+[
+  {
+    "partition": "development",
+    "polymer": "N2200 - 9.1 k",
+    "solvent": "Chlorobenzene",
+    "temperature_K": 298.15,
+    "row_indices": [
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329
+    ],
+    "fit": "LOCO excluding entire chemistry"
+  },
+  {
+    "partition": "development",
+    "polymer": "N2200 - 9.1 k",
+    "solvent": "Anisole",
+    "temperature_K": 298.15,
+    "row_indices": [
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365
+    ],
+    "fit": "LOCO excluding entire chemistry"
+  },
+  {
+    "partition": "development",
+    "polymer": "PII-2T (C10-C10) - 23.8k",
+    "solvent": "Toluene",
+    "temperature_K": 298.15,
+    "row_indices": [
+      535,
+      536,
+      537
+    ],
+    "fit": "LOCO excluding entire chemistry"
+  },
+  {
+    "partition": "development",
+    "polymer": "g42T-TT",
+    "solvent": "Anisole",
+    "temperature_K": 298.15,
+    "row_indices": [
+      5,
+      6,
+      7
+    ],
+    "fit": "LOCO excluding entire chemistry"
+  },
+  {
+    "partition": "development",
+    "polymer": "AcDOT-[OE3]2",
+    "solvent": "Chloroform",
+    "temperature_K": 298.15,
+    "row_indices": [
+      212,
+      213,
+      214
+    ],
+    "fit": "LOCO excluding entire chemistry"
+  },
+  {
+    "partition": "development",
+    "polymer": "AcDOT-[C10]2-co-[OE3]2",
+    "solvent": "Chloroform",
+    "temperature_K": 298.15,
+    "row_indices": [
+      197,
+      198,
+      199,
+      200
+    ],
+    "fit": "LOCO excluding entire chemistry"
+  },
+  {
+    "partition": "holdout",
+    "polymer": "PBTTT-C14",
+    "solvent": "Chlorobenzene",
+    "temperature_K": 298.15,
+    "row_indices": [
+      148,
+      149,
+      150
+    ],
+    "fit": "frozen development fit"
+  },
+  {
+    "partition": "holdout",
+    "polymer": "PTQ-6bO",
+    "solvent": "o-Dichlorobenzene",
+    "temperature_K": 298.15,
+    "row_indices": [
+      264,
+      265,
+      266
+    ],
+    "fit": "frozen development fit"
+  },
+  {
+    "partition": "holdout",
+    "polymer": "N2200-OEG",
+    "solvent": "Anisole",
+    "temperature_K": 298.15,
+    "row_indices": [
+      389,
+      390,
+      391
+    ],
+    "fit": "frozen development fit"
+  },
+  {
+    "partition": "holdout",
+    "polymer": "DPP2T-T2M2",
+    "solvent": "Chlorobenzene",
+    "temperature_K": 298.15,
+    "row_indices": [
+      552,
+      553,
+      554,
+      555
+    ],
+    "fit": "frozen development fit"
+  },
+  {
+    "partition": "holdout",
+    "polymer": "IDTBT",
+    "solvent": "Chlorobenzene",
+    "temperature_K": 298.15,
+    "row_indices": [
+      710,
+      711,
+      712
+    ],
+    "fit": "frozen development fit"
+  },
+  {
+    "partition": "holdout",
+    "polymer": "F8BT",
+    "solvent": "Chlorobenzene",
+    "temperature_K": 298.15,
+    "row_indices": [
+      713,
+      714,
+      715,
+      716
+    ],
+    "fit": "frozen development fit"
+  }
+]

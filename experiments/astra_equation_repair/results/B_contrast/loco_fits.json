@@ -1,0 +1,1835 @@
+[
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.6282431343871654,
+    "effects": [
+      2.0703411605643662,
+      1.2449725301053733,
+      1.1954532316695543,
+      -0.6273842600424758,
+      -0.08120319995629843
+    ],
+    "mean": [
+      2737.0653623051144,
+      -0.795850602765609,
+      -2805.5473591054033,
+      712.2749576702097,
+      15838369.233117307
+    ],
+    "sd": [
+      3186.9143120185063,
+      1.8978504498085391,
+      9402.887477670487,
+      496.999811568338,
+      16157419.966508646
+    ],
+    "raw_intercept": -0.5488510854059715,
+    "raw_coefficients": [
+      0.0006496381633973294,
+      0.6559908501910516,
+      0.00012713682201435014,
+      -0.0012623430541405948,
+      -5.025752881624523e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.68466649140093,
+    "effects": [
+      2.0656389926058183,
+      1.25554230827181,
+      1.1668237445540994,
+      -0.8532668877824892,
+      -0.21596013673432693
+    ],
+    "mean": [
+      2680.824293216653,
+      -0.7740619316290814,
+      -2341.1489165551807,
+      728.6017739246608,
+      16621656.166683393
+    ],
+    "sd": [
+      3177.798339471678,
+      1.8272249704871066,
+      9793.82309512585,
+      466.285672104622,
+      16153601.804863632
+    ],
+    "raw_intercept": -0.06095537932497963,
+    "raw_coefficients": [
+      0.0006500220504707166,
+      0.6871306645602069,
+      0.00011913874012435445,
+      -0.0018299230253659585,
+      -1.3369163072306527e-08
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.8195508219182721,
+    "effects": [
+      2.054673036554524,
+      1.2997108727329776,
+      1.0509723653020264,
+      -0.511279076218023,
+      -0.1923429022792401
+    ],
+    "mean": [
+      2558.172201370139,
+      -0.8318923690039597,
+      -2065.7866734337445,
+      687.252055079303,
+      15756613.074090036
+    ],
+    "sd": [
+      3154.347224478652,
+      1.8933991070256682,
+      9669.200101090111,
+      489.59116850437493,
+      15556672.575898899
+    ],
+    "raw_intercept": -0.7777945754217181,
+    "raw_coefficients": [
+      0.0006513782061181038,
+      0.6864431634673618,
+      0.00010869279302468248,
+      -0.0010442979961830222,
+      -1.2364013020189578e-08
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7369453873258176,
+    "effects": [
+      2.0132543436422714,
+      1.2078901967360625,
+      1.058942880429651,
+      -0.5202178863604442,
+      -0.11900257777634957
+    ],
+    "mean": [
+      2537.4414704027963,
+      -0.8120155188992579,
+      -1974.1973702007142,
+      685.1088466560054,
+      16053723.17883809
+    ],
+    "sd": [
+      3149.894061103795,
+      1.859621967863775,
+      9692.457054406706,
+      487.871436455874,
+      15704925.71258798
+    ],
+    "raw_intercept": -0.7634504311293977,
+    "raw_coefficients": [
+      0.0006391498585627927,
+      0.6495353451452373,
+      0.00010925432782270614,
+      -0.001066301175858029,
+      -7.577404691635398e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.5758512648160277,
+    "effects": [
+      1.9139146284941837,
+      1.2591748819125954,
+      1.0300588849291998,
+      -0.38893706052561716,
+      -0.04603048294068212
+    ],
+    "mean": [
+      2618.0625204657613,
+      -0.8617461368355506,
+      -1885.9935349213115,
+      615.5351560810616,
+      14879134.450406523
+    ],
+    "sd": [
+      3166.41410914555,
+      1.9192307851427937,
+      9923.736700004412,
+      429.8719146954388,
+      14391932.88885886
+    ],
+    "raw_intercept": -0.7926714253293312,
+    "raw_coefficients": [
+      0.0006044423005083973,
+      0.6560830993646816,
+      0.00010379748234641713,
+      -0.0009047742995752032,
+      -3.1983530840611006e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7649003891905263,
+    "effects": [
+      1.9933289127726448,
+      1.2871174329561301,
+      1.0437673340326652,
+      -0.5658651052234758,
+      -0.12080819739372788
+    ],
+    "mean": [
+      2496.9719094713323,
+      -0.8666178450296993,
+      -1903.4932371166215,
+      673.4470507693966,
+      16015067.306767307
+    ],
+    "sd": [
+      3140.788061702146,
+      1.9482112469954243,
+      9608.623651190836,
+      489.13398485779845,
+      15351303.577563196
+    ],
+    "raw_intercept": -0.6651841583349819,
+    "raw_coefficients": [
+      0.0006346588415432154,
+      0.6606662572866017,
+      0.00010862818359040495,
+      -0.0011568713741859189,
+      -7.869572559967866e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7690164902629825,
+    "effects": [
+      2.045930395569649,
+      1.3227850741227947,
+      1.063252967617229,
+      -0.6261609741557136,
+      -0.11497759550178564
+    ],
+    "mean": [
+      2517.0440309301052,
+      -0.8776553733101498,
+      -1861.9479178206477,
+      660.6784239961219,
+      16246056.593799198
+    ],
+    "sd": [
+      3145.3728862962935,
+      1.9576615488236568,
+      9731.121472889285,
+      477.7155102524539,
+      15712293.644670947
+    ],
+    "raw_intercept": -0.624913560174181,
+    "raw_coefficients": [
+      0.0006504571856911856,
+      0.6756965088871698,
+      0.00010926314819719712,
+      -0.001310740306139133,
+      -7.31768372600279e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7544216579495145,
+    "effects": [
+      1.98018281754785,
+      1.304292222519415,
+      1.0477186646435965,
+      -0.5332648060981332,
+      -0.0998748500095246
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1820.5469411153956,
+      667.0365108113092,
+      16268546.498953983
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9696.147825272972,
+      477.26469652318053,
+      15675622.904350247
+    ],
+    "raw_intercept": -0.6926684328169334,
+    "raw_coefficients": [
+      0.0006306588205492913,
+      0.6677313912006955,
+      0.00010805514556128382,
+      -0.0011173355372456986,
+      -6.371348087341886e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.751365739092825,
+    "effects": [
+      1.9835182884981284,
+      1.3052866451441085,
+      1.0488396299759635,
+      -0.52274935183814,
+      -0.10026776079785933
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1809.9703517199102,
+      663.720912862175,
+      16281540.129527232
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9697.138975840968,
+      463.9763959910472,
+      15671641.415514642
+    ],
+    "raw_intercept": -0.6897561851962555,
+    "raw_coefficients": [
+      0.0006317211185133166,
+      0.668240485091745,
+      0.00010815969871000066,
+      -0.0011266722970282887,
+      -6.398038223270988e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7615497090237813,
+    "effects": [
+      2.034030009532371,
+      1.3393897119765124,
+      1.119885010054163,
+      -0.5024061097454007,
+      -0.052565561114103286
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1912.5325961167405,
+      671.86367044007,
+      16083196.180482646
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9532.658590016921,
+      487.5556877363453,
+      15442668.269328648
+    ],
+    "raw_intercept": -0.8006391758221243,
+    "raw_coefficients": [
+      0.0006478083515349719,
+      0.685699523692945,
+      0.00011747877042685269,
+      -0.001030458924759967,
+      -3.4039170043240534e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7553393899762242,
+    "effects": [
+      1.977506222102479,
+      1.304043450069563,
+      1.0489796926430115,
+      -0.5251436696194033,
+      -0.09929831582489634
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1848.5335626226693,
+      667.6063880790389,
+      16266253.50532341
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9675.945077742264,
+      479.0249236900548,
+      15676050.817983864
+    ],
+    "raw_intercept": -0.70192936184282,
+    "raw_coefficients": [
+      0.0006298063646489034,
+      0.6676040323380388,
+      0.00010841108379748835,
+      -0.001096276297220787,
+      -6.3343961421061116e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7468960860983054,
+    "effects": [
+      1.9596794195777327,
+      1.3048396223029721,
+      0.9794962347141005,
+      -0.571590575567976,
+      -0.09792097654235211
+    ],
+    "mean": [
+      2472.5365838779444,
+      -0.8852830475867307,
+      -1660.3994720996923,
+      676.8078602507726,
+      16266763.522148963
+    ],
+    "sd": [
+      3147.9826518812065,
+      1.9570507438546898,
+      9523.579254342883,
+      489.384571032982,
+      15708818.734585708
+    ],
+    "raw_intercept": -0.6331785234470857,
+    "raw_coefficients": [
+      0.0006225191293245043,
+      0.6667377564941954,
+      0.00010284959137263825,
+      -0.0011679783331981133,
+      -6.233503498691597e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.8330924111981545,
+    "effects": [
+      2.07546733015386,
+      1.3408415161745904,
+      1.16860737354804,
+      -0.49623136183168737,
+      -0.2460178278347395
+    ],
+    "mean": [
+      2521.011349780885,
+      -0.8826336166040828,
+      -1803.4047422575738,
+      690.0018454722264,
+      15382067.212631486
+    ],
+    "sd": [
+      3172.7455059763124,
+      1.972223873604739,
+      9799.996268146206,
+      486.03481108435557,
+      14550683.806454051
+    ],
+    "raw_intercept": -0.702554631262082,
+    "raw_coefficients": [
+      0.000654154998011793,
+      0.679862734712699,
+      0.0001192456957709737,
+      -0.0010209790544109033,
+      -1.6907647166768662e-08
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7834753841757028,
+    "effects": [
+      1.968949087532017,
+      1.2972320906461583,
+      1.0356971909616446,
+      -0.5474519764952368,
+      -0.10901489075349785
+    ],
+    "mean": [
+      2475.437861385101,
+      -0.883868857414867,
+      -1846.1535485333302,
+      677.5519073096282,
+      16154899.682656711
+    ],
+    "sd": [
+      3147.714231297662,
+      1.9558045649872307,
+      9703.455404408476,
+      488.31156648481675,
+      15657195.408284873
+    ],
+    "raw_intercept": -0.6765170814539531,
+    "raw_coefficients": [
+      0.0006255171031584742,
+      0.6632728616494603,
+      0.00010673488440943485,
+      -0.0011211120400775084,
+      -6.962606514817689e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -1.1325549344024952,
+    "effects": [
+      1.9889306673329659,
+      1.5897774029798903,
+      1.0903395104684719,
+      -0.7066183468505687,
+      -0.1695660013812069
+    ],
+    "mean": [
+      1949.7044183155278,
+      -0.9345023116392268,
+      -842.0103763647921,
+      646.7446784169199,
+      18007107.185903784
+    ],
+    "sd": [
+      2876.346148807626,
+      2.0076614702712514,
+      9768.341163980307,
+      528.2881276685924,
+      15743774.607965106
+    ],
+    "raw_intercept": -0.5877531903415245,
+    "raw_coefficients": [
+      0.0006914782033996383,
+      0.7918553135181194,
+      0.00011161972049962587,
+      -0.0013375624206604297,
+      -1.077035244746326e-08
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7134099897008594,
+    "effects": [
+      1.9534586686475395,
+      1.2930978678097638,
+      1.013112235827479,
+      -0.5572686481142278,
+      -0.10605973948440181
+    ],
+    "mean": [
+      2529.242951920073,
+      -0.8760611389496548,
+      -1654.124594433103,
+      677.9515566074814,
+      16447277.731225874
+    ],
+    "sd": [
+      3148.0935030799305,
+      1.947525854939725,
+      9647.586501042611,
+      491.7158018957408,
+      15725469.767092967
+    ],
+    "raw_intercept": -0.6482176855010009,
+    "raw_coefficients": [
+      0.0006205211715396565,
+      0.6639695511769134,
+      0.00010501198778761841,
+      -0.0011333144998915171,
+      -6.744456035669081e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7846242892478462,
+    "effects": [
+      1.9304446628867398,
+      1.30386538467748,
+      1.036049198439769,
+      -0.5490760134775978,
+      -0.10374584232422976
+    ],
+    "mean": [
+      2436.648070459239,
+      -0.8824591782164382,
+      -1714.8619560204625,
+      670.172353293791,
+      16215883.893689157
+    ],
+    "sd": [
+      3068.198193655161,
+      1.9545605568437248,
+      9591.845239258791,
+      486.4586611408165,
+      15663943.571213067
+    ],
+    "raw_intercept": -0.6799652579408063,
+    "raw_coefficients": [
+      0.0006291786061535323,
+      0.6670887633090251,
+      0.00010801354406754686,
+      -0.0011287208088554422,
+      -6.623226255417067e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.78129576045264,
+    "effects": [
+      1.9607987665628261,
+      1.3132372548130287,
+      1.050514106240293,
+      -0.5456863907922063,
+      -0.10127330867685187
+    ],
+    "mean": [
+      2443.1897739657884,
+      -0.8810539884422082,
+      -1742.0531509660304,
+      672.3627690421874,
+      16210388.537170544
+    ],
+    "sd": [
+      3081.9140606356195,
+      1.9533187142423751,
+      9616.442562734024,
+      488.03392817990965,
+      15661016.16005896
+    ],
+    "raw_intercept": -0.6964577437052308,
+    "raw_coefficients": [
+      0.0006362275936268085,
+      0.6723107935421527,
+      0.00010924144759219819,
+      -0.001118132079110376,
+      -6.466586053025987e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.791663388988736,
+    "effects": [
+      1.9627015644607972,
+      1.2961798830744355,
+      1.045550557119327,
+      -0.5627288725349441,
+      -0.09584774336119851
+    ],
+    "mean": [
+      2459.91963344226,
+      -0.8852830475867307,
+      -1746.7346134793117,
+      671.9358436291925,
+      16349722.658148963
+    ],
+    "sd": [
+      3135.302272363614,
+      1.9570507438546898,
+      9675.766393742068,
+      489.4264532309595,
+      15680840.92958269
+    ],
+    "raw_intercept": -0.6839814295970718,
+    "raw_coefficients": [
+      0.000626000746965036,
+      0.6623128639584608,
+      0.00010805868130462006,
+      -0.0011497720828534646,
+      -6.112410921813316e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7796240189441821,
+    "effects": [
+      1.9676084859712317,
+      1.2990609764572283,
+      1.0416292124614832,
+      -0.5519022840509622,
+      -0.09863765168657568
+    ],
+    "mean": [
+      2469.6261509678975,
+      -0.8824591782164382,
+      -1791.1104693516477,
+      674.1540644313266,
+      16310832.538027275
+    ],
+    "sd": [
+      3135.7948544939222,
+      1.9545605568437248,
+      9696.657744612645,
+      489.2553215951898,
+      15670080.04963326
+    ],
+    "raw_intercept": -0.6871728397727612,
+    "raw_coefficients": [
+      0.0006274672219553657,
+      0.6646307129797941,
+      0.00010742146829305188,
+      -0.0011280455412350252,
+      -6.294648870596176e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7389122217145193,
+    "effects": [
+      1.9848986089105038,
+      1.3298606385218772,
+      0.998928330429393,
+      -0.576063601946769,
+      -0.12310005804276493
+    ],
+    "mean": [
+      2470.9127879535663,
+      -0.8909853538513796,
+      -1718.574652535521,
+      675.02530627152,
+      16440014.237267474
+    ],
+    "sd": [
+      3146.617987461503,
+      1.9620572704772283,
+      9661.80467331404,
+      491.59121199124894,
+      15689093.002066318
+    ],
+    "raw_intercept": -0.5959810326663931,
+    "raw_coefficients": [
+      0.0006308038080313007,
+      0.6777888997085274,
+      0.00010338941473205712,
+      -0.0011718346217243277,
+      -7.84621890038845e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7391526698960681,
+    "effects": [
+      1.9193187531111995,
+      1.2920684895864079,
+      0.8557883012885851,
+      -0.562908945854715,
+      -0.09143972945397856
+    ],
+    "mean": [
+      2434.2056560872543,
+      -0.883868857414867,
+      -1494.4939785388528,
+      673.4893192281172,
+      16313520.95148373
+    ],
+    "sd": [
+      3095.062522449556,
+      1.9558045649872307,
+      8826.7714502101,
+      489.56003512619606,
+      15686943.532177927
+    ],
+    "raw_intercept": -0.6503618740972433,
+    "raw_coefficients": [
+      0.0006201227727032066,
+      0.6606327200155828,
+      9.695371700920329e-05,
+      -0.0011498261816032663,
+      -5.829034143357011e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.9570919106976392,
+    "effects": [
+      1.9689505268448722,
+      1.2237994818447993,
+      1.0897234942328933,
+      -0.6417140780057919,
+      -0.05063800616570393
+    ],
+    "mean": [
+      2368.9906176293593,
+      -0.9248841876112437,
+      -1486.8962197958576,
+      663.8049410261823,
+      16947936.8805199
+    ],
+    "sd": [
+      3184.210802111037,
+      1.9943461512202676,
+      9875.343842737499,
+      505.97788297935955,
+      16032778.181473624
+    ],
+    "raw_intercept": -0.7949268869443149,
+    "raw_coefficients": [
+      0.0006183480457824954,
+      0.61363443908471,
+      0.00011034790399063371,
+      -0.0012682650755941628,
+      -3.1584049621679245e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7615901939625329,
+    "effects": [
+      2.120791036530982,
+      1.3655112488731465,
+      0.989674079606969,
+      -0.571054091535599,
+      -0.036276006878992836
+    ],
+    "mean": [
+      2301.936664512615,
+      -0.9219378436663151,
+      -1407.3352823061373,
+      659.2761632093424,
+      16653717.868060416
+    ],
+    "sd": [
+      3109.268014357036,
+      1.9948212950718591,
+      9735.90720333051,
+      505.46529486360845,
+      16116482.874121083
+    ],
+    "raw_intercept": -0.7752517233739014,
+    "raw_coefficients": [
+      0.0006820869178013074,
+      0.684528108982292,
+      0.00010165196308243531,
+      -0.0011297592482381776,
+      -2.2508637375988998e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7810068736105925,
+    "effects": [
+      1.9709509628775872,
+      1.3029844712992593,
+      1.0441668892275813,
+      -0.552399152048665,
+      -0.10110591377948151
+    ],
+    "mean": [
+      2463.5477513875,
+      -0.8824591782164382,
+      -1802.2643750005868,
+      673.6542002392965,
+      16320257.099430785
+    ],
+    "sd": [
+      3134.504937472623,
+      1.9545605568437248,
+      9703.361932757913,
+      489.18626120497083,
+      15665616.135461437
+    ],
+    "raw_intercept": -0.6818100288588927,
+    "raw_coefficients": [
+      0.000628791787601005,
+      0.6666380669235199,
+      0.00010760877482087341,
+      -0.0011292204950482199,
+      -6.454001738917459e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7804123685788542,
+    "effects": [
+      1.9714310457836408,
+      1.3022835637215122,
+      1.043845616375349,
+      -0.5523295268542417,
+      -0.10116604714391705
+    ],
+    "mean": [
+      2465.5686777343763,
+      -0.8824591782164382,
+      -1799.7561382211109,
+      674.0989320360413,
+      16308306.222237801
+    ],
+    "sd": [
+      3136.756654908818,
+      1.9545605568437248,
+      9702.599924462771,
+      489.25166427172644,
+      15673336.894189958
+    ],
+    "raw_intercept": -0.682143361495055,
+    "raw_coefficients": [
+      0.0006284934608167583,
+      0.6662794658173568,
+      0.0001075841140005725,
+      -0.0011289272315024408,
+      -6.454659133972861e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.783783420672549,
+    "effects": [
+      1.9586038475619088,
+      1.3017279126527044,
+      1.0426059620008676,
+      -0.5533904901077278,
+      -0.10355002727674457
+    ],
+    "mean": [
+      2457.817755250506,
+      -0.8824591782164382,
+      -1791.8710082794946,
+      673.4074303075732,
+      16217318.981408454
+    ],
+    "sd": [
+      3117.4976911620447,
+      1.9545605568437248,
+      9697.917519796953,
+      489.12240642123237,
+      15656170.869359184
+    ],
+    "raw_intercept": -0.6784302519733648,
+    "raw_coefficients": [
+      0.0006282615230524327,
+      0.6659951814206096,
+      0.00010750823152213167,
+      -0.0011313946832996805,
+      -6.614007226978031e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7817007635988787,
+    "effects": [
+      1.9495568503571252,
+      1.303783843502853,
+      1.045332946746128,
+      -0.5506259769765953,
+      -0.10209089077892881
+    ],
+    "mean": [
+      2455.164309142947,
+      -0.8810539884422082,
+      -1796.7130144264602,
+      672.0362479805849,
+      16127888.324856319
+    ],
+    "sd": [
+      3094.6590515657026,
+      1.9533187142423751,
+      9690.596380929772,
+      487.7332759642991,
+      15447568.862363778
+    ],
+    "raw_intercept": -0.6812193877274418,
+    "raw_coefficients": [
+      0.0006299746814986847,
+      0.6674711269576639,
+      0.00010787085806228086,
+      -0.001128948964755277,
+      -6.608864585006739e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.8733762759464435,
+    "effects": [
+      1.9049385575614217,
+      1.2434171793924664,
+      1.0270385942126457,
+      -0.5894362840107682,
+      -0.09134595321266648
+    ],
+    "mean": [
+      2347.0074199041396,
+      -0.8788598053063534,
+      -1693.2941978578724,
+      666.618449284665,
+      16449869.465340775
+    ],
+    "sd": [
+      3108.011162103355,
+      1.918586017434798,
+      9900.634881818558,
+      500.77239165273147,
+      15978016.815423952
+    ],
+    "raw_intercept": -0.6879627578029456,
+    "raw_coefficients": [
+      0.0006129123925900734,
+      0.6480903999576465,
+      0.00010373461969582281,
+      -0.0011770542742290835,
+      -5.716976910706972e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.798112624182814,
+    "effects": [
+      1.985645727707595,
+      1.2934501772040214,
+      1.044615962314347,
+      -0.5727886958320179,
+      -0.10231260350309433
+    ],
+    "mean": [
+      2475.5520459123127,
+      -0.883868857414867,
+      -1808.1452137573287,
+      673.2696389439109,
+      16260086.296075242
+    ],
+    "sd": [
+      3148.2734519700393,
+      1.9558045649872307,
+      9712.707857936693,
+      489.5060098752208,
+      15703973.380621936
+    ],
+    "raw_intercept": -0.6867079646573737,
+    "raw_coefficients": [
+      0.0006307094215291472,
+      0.6613391748640624,
+      0.00010755146531672359,
+      -0.0011701361868427856,
+      -6.5150774917476564e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7777953120817704,
+    "effects": [
+      1.9956927184805913,
+      1.3049952509555836,
+      1.051838586912385,
+      -0.557668012550773,
+      -0.09476529842569995
+    ],
+    "mean": [
+      2481.432074740998,
+      -0.8810539884422082,
+      -1806.7508160812279,
+      674.3801972847897,
+      16304404.142266085
+    ],
+    "sd": [
+      3144.2137212659172,
+      1.9533187142423751,
+      9697.108341298941,
+      488.8696109523132,
+      15658384.94092801
+    ],
+    "raw_intercept": -0.7002458443479145,
+    "raw_coefficients": [
+      0.0006347191684148905,
+      0.6680913060630488,
+      0.00010846930341416499,
+      -0.0011407295525374163,
+      -6.052048074128109e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7876008900304018,
+    "effects": [
+      2.0619395121352824,
+      1.3325133094677326,
+      1.1131517499874855,
+      -0.5811867330320433,
+      -0.11527655001832636
+    ],
+    "mean": [
+      2479.842702388976,
+      -0.8774236886192871,
+      -1869.297148637346,
+      677.0625428144377,
+      16338786.796607725
+    ],
+    "sd": [
+      3146.829421946554,
+      1.9564517186493073,
+      9682.838821206853,
+      488.6883174691627,
+      15670391.3395541
+    ],
+    "raw_intercept": -0.6745935038735739,
+    "raw_coefficients": [
+      0.0006552434961218253,
+      0.6810867330718856,
+      0.00011496130117848477,
+      -0.001189278958093197,
+      -7.356328729797156e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7696156980238344,
+    "effects": [
+      1.9757388595375422,
+      1.3026205097735917,
+      1.0393884931251203,
+      -0.5518339522101022,
+      -0.10013986643340131
+    ],
+    "mean": [
+      2482.900401556372,
+      -0.8763258578823291,
+      -1825.5576419667489,
+      675.3160948955228,
+      16282138.281591224
+    ],
+    "sd": [
+      3140.4697947754803,
+      1.9526845964390318,
+      9683.88272345431,
+      488.16732640383236,
+      15654392.00962963
+    ],
+    "raw_intercept": -0.6835865785044177,
+    "raw_coefficients": [
+      0.000629122070469967,
+      0.6670921213538968,
+      0.0001073317927124135,
+      -0.0011304196785870142,
+      -6.396918281578828e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7620520737294848,
+    "effects": [
+      2.00868068234065,
+      1.325032001737007,
+      1.099957126578762,
+      -0.5093942693962422,
+      -0.09748489000697709
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1893.6148853543004,
+      671.2191086842386,
+      16236444.588125957
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9589.276500094742,
+      486.77787962578634,
+      15674116.934282374
+    ],
+    "raw_intercept": -0.7386484448785356,
+    "raw_coefficients": [
+      0.0006397349672763174,
+      0.6783491050772742,
+      0.00011470699865291135,
+      -0.0010464614164222958,
+      -6.219482119197317e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7663161706384995,
+    "effects": [
+      1.9910854701841652,
+      1.3153299079274001,
+      1.0666727314738493,
+      -0.5199295015231292,
+      -0.0984276312614946
+    ],
+    "mean": [
+      2471.2699247107003,
+      -0.8824591782164382,
+      -1850.305770809845,
+      670.1748883800134,
+      16241708.455092667
+    ],
+    "sd": [
+      3134.337791501727,
+      1.9545605568437248,
+      9681.512259630701,
+      486.4620850532908,
+      15659873.887510017
+    ],
+    "raw_intercept": -0.7201079273756053,
+    "raw_coefficients": [
+      0.0006352491666924624,
+      0.6729542880223824,
+      0.00011017625169175144,
+      -0.001068797584638425,
+      -6.28533996943605e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.8224379270748795,
+    "effects": [
+      1.9481340061176935,
+      1.3597403097604452,
+      0.9945442594404924,
+      -0.5199026352849715,
+      -0.0703952880760806
+    ],
+    "mean": [
+      2485.9387295351785,
+      -0.8692427987629947,
+      -2011.4568271517817,
+      686.2886607127322,
+      16700834.212735364
+    ],
+    "sd": [
+      3188.3214436358176,
+      1.9793912859132228,
+      9781.111239456579,
+      492.8893787617387,
+      15754208.631290166
+    ],
+    "raw_intercept": -0.7412239408622606,
+    "raw_coefficients": [
+      0.00061102183094065,
+      0.6869487197591193,
+      0.00010168008880509854,
+      -0.001054805921343034,
+      -4.468348091840376e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7533361923113172,
+    "effects": [
+      1.9722356031393082,
+      1.305621994002016,
+      1.0311801260329225,
+      -0.556810809497338,
+      -0.10106854842742563
+    ],
+    "mean": [
+      2502.735658258289,
+      -0.8810539884422082,
+      -1732.690949857877,
+      678.952645701156,
+      16211699.365196021
+    ],
+    "sd": [
+      3128.3869425895455,
+      1.9533187142423751,
+      9593.375832461621,
+      484.2478279178705,
+      15661929.837227343
+    ],
+    "raw_intercept": -0.6706813107613719,
+    "raw_coefficients": [
+      0.0006304321170407314,
+      0.6684121666793233,
+      0.00010748876558590177,
+      -0.0011498467879380437,
+      -6.4531350528204104e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7567904591246103,
+    "effects": [
+      1.9763848203015701,
+      1.303905390418814,
+      1.025006411317494,
+      -0.5556281646672683,
+      -0.0968393787690022
+    ],
+    "mean": [
+      2483.3791545830572,
+      -0.8810539884422082,
+      -1735.0252040857042,
+      675.2649916090575,
+      16191476.435259717
+    ],
+    "sd": [
+      3143.8917854697333,
+      1.9533187142423751,
+      9599.40178452102,
+      488.6824850775392,
+      15644826.173817702
+    ],
+    "raw_intercept": -0.6765589943350684,
+    "raw_coefficients": [
+      0.0006286427635441898,
+      0.6675333528069708,
+      0.00010677815496485529,
+      -0.0011369921812915125,
+      -6.189866074131723e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7568775680752166,
+    "effects": [
+      1.9762901986854768,
+      1.3038934992616096,
+      1.0250836317702534,
+      -0.5557075113713416,
+      -0.09717084679023058
+    ],
+    "mean": [
+      2483.3791545830572,
+      -0.8810539884422082,
+      -1735.5735955344685,
+      675.2649916090575,
+      16197845.862011308
+    ],
+    "sd": [
+      3143.8917854697333,
+      1.9533187142423751,
+      9600.790951469535,
+      488.6824850775392,
+      15650907.562809044
+    ],
+    "raw_intercept": -0.676077862852759,
+    "raw_coefficients": [
+      0.0006286126665743988,
+      0.6675272651382674,
+      0.00010677074805106033,
+      -0.0011371545499183739,
+      -6.208639748223664e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7588886654036545,
+    "effects": [
+      1.9737429909828943,
+      1.3055047404685112,
+      1.0327693468821508,
+      -0.56219472381283,
+      -0.09386544977507809
+    ],
+    "mean": [
+      2491.7807211484396,
+      -0.8810539884422082,
+      -1782.5556402458044,
+      677.3365551054051,
+      16153578.34608774
+    ],
+    "sd": [
+      3140.772266691265,
+      1.9533187142423751,
+      9682.753998782695,
+      486.9210347360537,
+      15595387.736675093
+    ],
+    "raw_intercept": -0.6665336465520432,
+    "raw_coefficients": [
+      0.0006284260122629616,
+      0.6683521388238332,
+      0.00010666070283433716,
+      -0.0011545911630570244,
+      -6.018795515698414e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.756718165392451,
+    "effects": [
+      1.9761124823286265,
+      1.3038436503509256,
+      1.0418375460898506,
+      -0.5502862336184995,
+      -0.10079946441812136
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1787.4156786884298,
+      673.3539942955491,
+      16270815.607234238
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9687.090939365924,
+      488.6640160713066,
+      15675118.334908698
+    ],
+    "raw_intercept": -0.6824798787834346,
+    "raw_coefficients": [
+      0.0006293624792287587,
+      0.6675017450271251,
+      0.00010754906221186407,
+      -0.0011261034484237548,
+      -6.4305392957474274e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7566659458295041,
+    "effects": [
+      1.9748228119233848,
+      1.3039178508991205,
+      1.0424187981187718,
+      -0.5475064630577876,
+      -0.0953747816493671
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1810.6923414275752,
+      673.2514001343578,
+      16173005.097680097
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9697.18706441557,
+      488.6184922820263,
+      15623570.521011936
+    ],
+    "raw_intercept": -0.6887373888275127,
+    "raw_coefficients": [
+      0.0006289517383570274,
+      0.6675397319401946,
+      0.00010749702890067908,
+      -0.001120519324802328,
+      -6.104544509918447e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.6667333081299374,
+    "effects": [
+      1.9153474744995076,
+      1.2888738564586586,
+      1.0255265685977957,
+      -0.5346644471144901,
+      -0.07436879731206053
+    ],
+    "mean": [
+      2579.2444600305193,
+      -0.8657450320850322,
+      -1991.7656873092685,
+      677.7863500868815,
+      16032697.20155371
+    ],
+    "sd": [
+      3158.7277749529567,
+      1.9411451100502524,
+      9804.530963051977,
+      496.9524096850565,
+      15818028.309309449
+    ],
+    "raw_intercept": -0.6429349461108895,
+    "raw_coefficients": [
+      0.0006063667434994562,
+      0.6639760468115092,
+      0.00010459720841950071,
+      -0.0010758866174999204,
+      -4.7015213184497814e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7541943746335741,
+    "effects": [
+      1.9803777739639263,
+      1.3043829585050695,
+      1.0472712436602138,
+      -0.5368792596221549,
+      -0.09879743175581605
+    ],
+    "mean": [
+      2492.995839551792,
+      -0.8810539884422082,
+      -1813.662486393719,
+      667.800959326222,
+      16207400.002138697
+    ],
+    "sd": [
+      3139.863826566558,
+      1.9533187142423751,
+      9697.2064975132,
+      479.59176558590985,
+      15658832.115108531
+    ],
+    "raw_intercept": -0.6925314676369706,
+    "raw_coefficients": [
+      0.000630720911272598,
+      0.6677778434181411,
+      0.00010799720970454547,
+      -0.0011194505372006498,
+      -6.309374225967381e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7984009930734615,
+    "effects": [
+      2.0532948832367346,
+      1.2957729074466138,
+      1.1092974671740925,
+      -0.44901670225932383,
+      -0.07016114322781762
+    ],
+    "mean": [
+      2513.00383184354,
+      -0.8881250477394972,
+      -1831.375856014371,
+      682.991068975926,
+      16335115.893006584
+    ],
+    "sd": [
+      3144.460877851397,
+      1.9595496345283212,
+      9734.461502375245,
+      484.75924495255583,
+      15722400.644164016
+    ],
+    "raw_intercept": -0.9378564926669675,
+    "raw_coefficients": [
+      0.0006529878929960631,
+      0.6612605695790483,
+      0.00011395570950724083,
+      -0.000926267434679394,
+      -4.462495570220739e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.7471998287438626,
+    "effects": [
+      1.9892896094258594,
+      1.3404968671614665,
+      1.0445930204622877,
+      -0.6021533592741508,
+      -0.026161963164773316
+    ],
+    "mean": [
+      2513.00383184354,
+      -0.8881250477394972,
+      -1860.1033438971722,
+      682.991068975926,
+      15843269.986104498
+    ],
+    "sd": [
+      3144.460877851397,
+      1.959549634528321,
+      9681.7122725133,
+      484.75924495255583,
+      15087230.435273793
+    ],
+    "raw_intercept": -0.6528997687201106,
+    "raw_coefficients": [
+      0.0006326329653002827,
+      0.68408416073836,
+      0.00010789341710018813,
+      -0.001242169933928923,
+      -1.734046767364732e-09
+    ]
+  },
+  {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "intercept": -0.794904227762111,
+    "effects": [
+      2.0422614369256804,
+      1.301933779471308,
+      1.0906941136145236,
+      -0.5074675790988006,
+      -0.06665278185336278
+    ],
+    "mean": [
+      2497.8523160938466,
+      -0.883868857414867,
+      -1815.0119378891068,
+      677.8897467052593,
+      16342965.325320756
+    ],
+    "sd": [
+      3143.975017882892,
+      1.9558045649872307,
+      9712.59384861903,
+      488.01511093822137,
+      15668320.957883814
+    ],
+    "raw_intercept": -0.8508330439450309,
+    "raw_coefficients": [
+      0.000649579409921937,
+      0.6656768282365719,
+      0.00011229689314864147,
+      -0.0010398603808049742,
+      -4.253983693117108e-09
+    ]
+  }
+]

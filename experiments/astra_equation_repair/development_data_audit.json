@@ -1,0 +1,72 @@
+{
+  "n": 631,
+  "positive": 251,
+  "unique_descriptor_conditions": 496,
+  "mixed_label_conditions": 13,
+  "observations_in_mixed_label_conditions": 46,
+  "minority_labels_with_identical_inputs": 13,
+  "chemistry_count": 47,
+  "polymer_solvent_groups": 173,
+  "ranges": {
+    "Temperature": [
+      298.15,
+      463.15
+    ],
+    "Concentration_mg_mL": [
+      10.0,
+      300.0
+    ],
+    "MW_Mn": [
+      3600.0,
+      177000.0
+    ],
+    "SC_C_atoms": [
+      0.0,
+      50.67588967858821
+    ],
+    "SC_O_atoms": [
+      0.0,
+      19.68034204434474
+    ],
+    "SC_n_units": [
+      0.0,
+      7.450954094671816
+    ],
+    "SC_n_branch_points": [
+      0.0,
+      3.19285821474526
+    ],
+    "BB_C_atoms": [
+      9.840171022172369,
+      62.44243587942363
+    ],
+    "BB_hetero_atoms": [
+      2.460042755543092,
+      17.94827307699211
+    ],
+    "BB_conjugated_units": [
+      1.13967906637491,
+      6.013626878506693
+    ],
+    "Solvent_MolLogP": [
+      -0.4959999999999998,
+      4.147000000000004
+    ],
+    "Solvent_NumHDonors": [
+      0.0,
+      1.0
+    ],
+    "Solvent_NumHAcceptors": [
+      0.0,
+      3.0
+    ],
+    "Monomer_fastsolv": [
+      -3.774932861328125,
+      0.4256551265716553
+    ],
+    "Backbone_fastsolv": [
+      -5.017097473144531,
+      0.2889545559883118
+    ]
+  }
+}

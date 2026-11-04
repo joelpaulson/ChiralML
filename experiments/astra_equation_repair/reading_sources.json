@@ -1,0 +1,9 @@
+{
+  "source_sha256": {
+    "REPORT.md": "f6f4363cea8a3a46a36fa157f7e6fe5bd15b1ad64c3c1e9e29a6404e8545b4ce",
+    "FINAL_EQUATION.md": "13bdefad14de537326108bbc470b9287054a792c0f9bdc3414901b44a02ac230",
+    "EXPERIMENT_LOG.md": "fe6bb254260d7c9d52036074206af145bf85839b744b763270c2cdfcc765fc5d"
+  },
+  "repository": "joelpaulson/ChiralML",
+  "branch": "astra-equation-repair"
+}

@@ -1,0 +1,38 @@
+{
+  "B32": {
+    "decreasing_at_observation": 244,
+    "negative_curvature": 603,
+    "turning_0_300": 484,
+    "zero_concentration_probability_range": [
+      1.0353491780864431e-05,
+      0.6585516345230307
+    ]
+  },
+  "A_overlap": {
+    "decreasing_at_observation": 225,
+    "negative_curvature": 603,
+    "turning_0_300": 475,
+    "zero_concentration_probability_range": [
+      6.139479825187878e-06,
+      0.6043254852958959
+    ]
+  },
+  "B_contrast": {
+    "decreasing_at_observation": 112,
+    "negative_curvature": 391,
+    "turning_0_300": 297,
+    "zero_concentration_probability_range": [
+      0.00043587961084194074,
+      0.4126086958503634
+    ]
+  },
+  "C_selectivity": {
+    "decreasing_at_observation": 238,
+    "negative_curvature": 603,
+    "turning_0_300": 465,
+    "zero_concentration_probability_range": [
+      5.119184324053295e-06,
+      0.6255421890617251
+    ]
+  }
+}

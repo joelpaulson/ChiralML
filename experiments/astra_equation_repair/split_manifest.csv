@@ -1,0 +1,774 @@
+row,experiment_id,polymer,solvent,chemistry,partition
+0,EXP0001,g42T-TT,Chloroform,0,development
+1,EXP0002,g42T-TT,Chloroform,0,development
+2,EXP0003,g42T-TT,Chloroform,0,development
+3,EXP0004,g42T-TT,Chloroform,0,development
+4,EXP0005,g42T-TT,Chloroform,0,development
+5,EXP0006,g42T-TT,Anisole,0,development
+6,EXP0007,g42T-TT,Anisole,0,development
+7,EXP0008,g42T-TT,Anisole,0,development
+8,EXP0009,g42T-TT,Anisole,0,development
+9,EXP0010,g42T-TT,Anisole,0,development
+10,EXP0011,g42T-TT,Anisole,0,development
+11,EXP0012,g42T-TT,Anisole,0,development
+12,EXP0013,g42T-TT,Anisole,0,development
+13,EXP0014,g42T-TT,Anisole,0,development
+14,EXP0015,g42T-TT,Anisole,0,development
+15,EXP0016,g42T-TT,Anisole,0,development
+16,EXP0017,g42T-TT,Anisole,0,development
+17,EXP0018,g42T-TT,o-Dichlorobenzene,0,development
+18,EXP0019,g42T-TT,o-Dichlorobenzene,0,development
+19,EXP0020,g42T-TT,o-Dichlorobenzene,0,development
+20,EXP0021,g42T-TT,o-Dichlorobenzene,0,development
+21,EXP0022,g42T-TT,o-Dichlorobenzene,0,development
+22,EXP0023,g42T-TT,Chlorobenzene,0,development
+23,EXP0024,g42T-TT,Chlorobenzene,0,development
+24,EXP0025,g42T-TT,Chlorobenzene,0,development
+25,EXP0026,g42T-TT,1-Chloronaphthalene,0,development
+26,EXP0027,g42T-TT,1-Chloronaphthalene,0,development
+27,EXP0028,g42T-TT,1-Chloronaphthalene,0,development
+28,EXP0029,g42T-TT,1-Chloronaphthalene,0,development
+29,EXP0030,g42T-TT,Dimethylformamide,0,development
+30,EXP0031,g42T-TT,Dimethylformamide,0,development
+31,EXP0032,g42T-TT,Dimethylformamide,0,development
+32,EXP0033,g42T-TT,14-Dioxane,0,development
+33,EXP0034,g42T-TT,14-Dioxane,0,development
+34,EXP0035,g42T-TT,14-Dioxane,0,development
+35,EXP0036,g42T-TT,13-Dioxane,0,development
+36,EXP0037,g42T-TT,13-Dioxane,0,development
+37,EXP0038,g42T-TT,13-Dioxane,0,development
+38,EXP0039,g42T-TT,Trichloroethylene,0,development
+39,EXP0040,g42T-TT,Trichloroethylene,0,development
+40,EXP0041,g42T-TT,Trichloroethylene,0,development
+41,EXP0042,g42T-TT,Toluene,0,development
+42,EXP0043,g42T-TT,Toluene,0,development
+43,EXP0044,g42T-TT,Toluene,0,development
+44,EXP0045,g42T-TT,o-Xylene,0,development
+45,EXP0046,g42T-TT,o-Xylene,0,development
+46,EXP0047,g42T-TT,o-Xylene,0,development
+47,EXP0048,g42T-TT,p-Xylene,0,development
+48,EXP0049,g42T-TT,p-Xylene,0,development
+49,EXP0050,g42T-TT,p-Xylene,0,development
+50,EXP0051,g42T-TT,PGMEA,0,development
+51,EXP0052,g42T-TT,PGMEA,0,development
+52,EXP0053,g42T-TT,PGMEA,0,development
+53,EXP0054,g42T-TT,PGMEA,0,development
+54,EXP0055,g42T-TT,PGMEA,0,development
+55,EXP0056,g42T-TT,PGMEA,0,development
+56,EXP0057,g42T-TT,Ethanol,0,development
+57,EXP0058,g42T-TT,Ethanol,0,development
+58,EXP0059,g42T-TT,Ethanol,0,development
+59,EXP0060,g32T-TT,Chloroform,1,development
+60,EXP0061,g32T-TT,Chloroform,1,development
+61,EXP0062,g32T-TT,Chloroform,1,development
+62,EXP0063,g32T-TT,Anisole,1,development
+63,EXP0064,g32T-TT,Anisole,1,development
+64,EXP0065,g32T-TT,Anisole,1,development
+65,EXP0066,g32T-TT,Anisole,1,development
+66,EXP0067,g32T-TT,o-Dichlorobenzene,1,development
+67,EXP0068,g32T-TT,o-Dichlorobenzene,1,development
+68,EXP0069,g32T-TT,o-Dichlorobenzene,1,development
+69,EXP0070,g32T-TT,o-Dichlorobenzene,1,development
+70,EXP0071,g32T-TT,Chlorobenzene,1,development
+71,EXP0072,g32T-TT,Chlorobenzene,1,development
+72,EXP0073,g32T-TT,Chlorobenzene,1,development
+73,EXP0074,g32T-TT,Dimethylformamide,1,development
+74,EXP0075,g32T-TT,Dimethylformamide,1,development
+75,EXP0076,g32T-TT,Dimethylformamide,1,development
+76,EXP0077,g32T-TT,1-Chloronaphthalene,1,development
+77,EXP0078,g32T-TT,1-Chloronaphthalene,1,development
+78,EXP0079,g32T-TT,1-Chloronaphthalene,1,development
+79,EXP0080,g32T-TT,14-Dioxane,1,development
+80,EXP0081,g32T-TT,14-Dioxane,1,development
+81,EXP0082,g32T-TT,14-Dioxane,1,development
+82,EXP0083,g32T-TT,13-Dioxane,1,development
+83,EXP0084,g32T-TT,13-Dioxane,1,development
+84,EXP0085,g32T-TT,13-Dioxane,1,development
+85,EXP0086,g32T-TT,Trichloroethylene,1,development
+86,EXP0087,g32T-TT,Trichloroethylene,1,development
+87,EXP0088,g32T-TT,Trichloroethylene,1,development
+88,EXP0089,g32T-TT,Toluene,1,development
+89,EXP0090,g32T-TT,Toluene,1,development
+90,EXP0091,g32T-TT,Toluene,1,development
+91,EXP0092,g32T-TT,o-Xylene,1,development
+92,EXP0093,g32T-TT,o-Xylene,1,development
+93,EXP0094,g32T-TT,o-Xylene,1,development
+94,EXP0095,g32T-TT,p-Xylene,1,development
+95,EXP0096,g32T-TT,p-Xylene,1,development
+96,EXP0097,g32T-TT,p-Xylene,1,development
+97,EXP0098,g32T-TT,PGMEA,1,development
+98,EXP0099,g32T-TT,PGMEA,1,development
+99,EXP0100,g32T-TT,PGMEA,1,development
+100,EXP0101,g32T-TT,PGMEA,1,development
+101,EXP0102,g32T-TT,PGMEA,1,development
+102,EXP0103,g32T-TT,PGMEA,1,development
+103,EXP0104,g32T-TT,Ethanol,1,development
+104,EXP0105,g32T-TT,Ethanol,1,development
+105,EXP0106,g32T-TT,Ethanol,1,development
+106,EXP0107,g32T-T,Chloroform,2,development
+107,EXP0108,g32T-T,Chloroform,2,development
+108,EXP0109,g32T-T,Anisole,2,development
+109,EXP0110,g32T-T,o-Dichlorobenzene,2,development
+110,EXP0111,g32T-T,PGMEA,2,development
+111,EXP0112,g32T-T,PGMEA,2,development
+112,EXP0113,g32T-T,PGMEA,2,development
+113,EXP0114,g32T-T,PGMEA,2,development
+114,EXP0115,g32T-T,PGMEA,2,development
+115,EXP0116,g32T-T,PGMEA,2,development
+116,EXP0117,g32T-T,Ethanol,2,development
+117,EXP0118,g32T-T,Ethanol,2,development
+118,EXP0119,g32T-T,Ethanol,2,development
+119,EXP0120,PBTTT-EG3,Chloroform,3,development
+120,EXP0121,PBTTT-EG3,Chloroform,3,development
+121,EXP0122,PBTTT-EG3,Chloroform,3,development
+122,EXP0123,PBTTT-EG3,Chloroform,3,development
+123,EXP0124,PBTTT-EG3,Chloroform,3,development
+124,EXP0125,PBTTT-EG3,Anisole,3,development
+125,EXP0126,PBTTT-EG3,Anisole,3,development
+126,EXP0127,PBTTT-EG3,Anisole,3,development
+127,EXP0128,PBTTT-EG3,PGMEA,3,development
+128,EXP0129,PBTTT-EG3,PGMEA,3,development
+129,EXP0130,PBTTT-EG3,PGMEA,3,development
+130,EXP0131,PBTTT-EG3,Ethanol,3,development
+131,EXP0132,PBTTT-EG3,Ethanol,3,development
+132,EXP0133,PBTTT-EG3,Ethanol,3,development
+133,EXP0134,PBTTT-C14,Chloroform,4,holdout
+134,EXP0135,PBTTT-C14,Chloroform,4,holdout
+135,EXP0136,PBTTT-C14,Chloroform,4,holdout
+136,EXP0137,PBTTT-C14,Anisole,4,holdout
+137,EXP0138,PBTTT-C14,Anisole,4,holdout
+138,EXP0139,PBTTT-C14,Anisole,4,holdout
+139,EXP0140,PBTTT-C14,Anisole,4,holdout
+140,EXP0141,PBTTT-C14,Anisole,4,holdout
+141,EXP0142,PBTTT-C14,Anisole,4,holdout
+142,EXP0143,PBTTT-C14,o-Dichlorobenzene,4,holdout
+143,EXP0144,PBTTT-C14,o-Dichlorobenzene,4,holdout
+144,EXP0145,PBTTT-C14,o-Dichlorobenzene,4,holdout
+145,EXP0146,PBTTT-C14,o-Dichlorobenzene,4,holdout
+146,EXP0147,PBTTT-C14,o-Dichlorobenzene,4,holdout
+147,EXP0148,PBTTT-C14,o-Dichlorobenzene,4,holdout
+148,EXP0149,PBTTT-C14,Chlorobenzene,4,holdout
+149,EXP0150,PBTTT-C14,Chlorobenzene,4,holdout
+150,EXP0151,PBTTT-C14,Chlorobenzene,4,holdout
+151,EXP0152,PBTTT-C14,Chlorobenzene,4,holdout
+152,EXP0153,PBTTT-C14,Chlorobenzene,4,holdout
+153,EXP0154,PBTTT-C14,Chlorobenzene,4,holdout
+154,EXP0155,PBTTT-C14,Dimethylformamide,4,holdout
+155,EXP0156,PBTTT-C14,Dimethylformamide,4,holdout
+156,EXP0157,PBTTT-C14,Dimethylformamide,4,holdout
+157,EXP0158,PBTTT-C14,Dimethylformamide,4,holdout
+158,EXP0159,PBTTT-C14,Dimethylformamide,4,holdout
+159,EXP0160,PBTTT-C14,Dimethylformamide,4,holdout
+160,EXP0161,PBTTT-C14,1-Chloronaphthalene,4,holdout
+161,EXP0162,PBTTT-C14,1-Chloronaphthalene,4,holdout
+162,EXP0163,PBTTT-C14,1-Chloronaphthalene,4,holdout
+163,EXP0164,PBTTT-C14,PGMEA,4,holdout
+164,EXP0165,PBTTT-C14,PGMEA,4,holdout
+165,EXP0166,PBTTT-C14,PGMEA,4,holdout
+166,EXP0167,PBTTT-C14,PGMEA,4,holdout
+167,EXP0168,PBTTT-C14,PGMEA,4,holdout
+168,EXP0169,PBTTT-C14,PGMEA,4,holdout
+169,EXP0170,PBTTT-C14,14-Dioxane,4,holdout
+170,EXP0171,PBTTT-C14,14-Dioxane,4,holdout
+171,EXP0172,PBTTT-C14,14-Dioxane,4,holdout
+172,EXP0173,PBTTT-C14,14-Dioxane,4,holdout
+173,EXP0174,PBTTT-C14,14-Dioxane,4,holdout
+174,EXP0175,PBTTT-C14,14-Dioxane,4,holdout
+175,EXP0176,PBTTT-C14,Trichloroethylene,4,holdout
+176,EXP0177,PBTTT-C14,Trichloroethylene,4,holdout
+177,EXP0178,PBTTT-C14,Trichloroethylene,4,holdout
+178,EXP0179,PBTTT-C14,Toluene,4,holdout
+179,EXP0180,PBTTT-C14,Toluene,4,holdout
+180,EXP0181,PBTTT-C14,Toluene,4,holdout
+181,EXP0182,PBTTT-C14,Ethanol,4,holdout
+182,EXP0183,PBTTT-C14,Ethanol,4,holdout
+183,EXP0184,PBTTT-C14,Ethanol,4,holdout
+184,EXP0185,P3HT,Chloroform,5,development
+185,EXP0186,P3HT,Chloroform,5,development
+186,EXP0187,P3HT,Chloroform,5,development
+187,EXP0188,P3HT,Chlorobenzene,5,development
+188,EXP0189,P3HT,Chlorobenzene,5,development
+189,EXP0190,P3HT,Chlorobenzene,5,development
+190,EXP0191,P3HT,Trichlorobenzene,5,development
+191,EXP0192,P3HT,Trichlorobenzene,5,development
+192,EXP0193,P3HT,Trichlorobenzene,5,development
+193,EXP0194,P3MEEMT,Chloroform,6,development
+194,EXP0195,P3MEEMT,PGMEA,6,development
+195,EXP0196,P3MEEMT,PGMEA,6,development
+196,EXP0197,P3MEEMT,PGMEA,6,development
+197,EXP0198,AcDOT-[C10]2-co-[OE3]2,Chloroform,7,development
+198,EXP0199,AcDOT-[C10]2-co-[OE3]2,Chloroform,7,development
+199,EXP0200,AcDOT-[C10]2-co-[OE3]2,Chloroform,7,development
+200,EXP0201,AcDOT-[C10]2-co-[OE3]2,Chloroform,7,development
+201,EXP0202,AcDOT-[C10]2-co-[OE3]2,Methanol,7,development
+202,EXP0203,AcDOT-[C10]2-co-[OE3]2,Methanol,7,development
+203,EXP0204,AcDOT-[C10]2-co-[OE3]2,Methanol,7,development
+204,EXP0205,AcDOT-[C10]2-co-[OE3]2,75wt% Chloroform + 25wt% Methanol,7,development
+205,EXP0206,AcDOT-[C10]2-co-[OE3]2,75wt% Chloroform + 25wt% Methanol,7,development
+206,EXP0207,"AcDOT-[CH3,C10]-co-[CH3,OE3]",Chloroform,8,development
+207,EXP0208,"AcDOT-[CH3,C10]-co-[CH3,OE3]",Chloroform,8,development
+208,EXP0209,"AcDOT-[CH3,C10]-co-[CH3,OE3]",Chloroform,8,development
+209,EXP0210,"AcDOT-[CH3,C10]",Chloroform,9,development
+210,EXP0211,"AcDOT-[CH3,C10]",Chloroform,9,development
+211,EXP0212,"AcDOT-[CH3,C10]",Chloroform,9,development
+212,EXP0213,AcDOT-[OE3]2,Chloroform,10,development
+213,EXP0214,AcDOT-[OE3]2,Chloroform,10,development
+214,EXP0215,AcDOT-[OE3]2,Chloroform,10,development
+215,EXP0216,AcDOT-[C10]2,Chloroform,11,development
+216,EXP0217,AcDOT-[C10]2,Chloroform,11,development
+217,EXP0218,AcDOT-[C10]2,Chloroform,11,development
+218,EXP0219,PTQ-10,Chloroform,12,development
+219,EXP0220,PTQ-10,Chloroform,12,development
+220,EXP0221,PTQ-10,Chloroform,12,development
+221,EXP0222,PTQ-10,Chlorobenzene,12,development
+222,EXP0223,PTQ-10,Chlorobenzene,12,development
+223,EXP0224,PTQ-10,Chlorobenzene,12,development
+224,EXP0225,PTQ-2bO2,Chloroform,13,holdout
+225,EXP0226,PTQ-2bO2,Chloroform,13,holdout
+226,EXP0227,PTQ-2bO2,Chloroform,13,holdout
+227,EXP0228,PTQ-2bO2,Chloroform,13,holdout
+228,EXP0229,PTQ-2bO2,Chloroform,13,holdout
+229,EXP0230,PTQ-2bO2,Chloroform,13,holdout
+230,EXP0231,PTQ-2bO2,Anisole,13,holdout
+231,EXP0232,PTQ-2bO2,Anisole,13,holdout
+232,EXP0233,PTQ-2bO2,Anisole,13,holdout
+233,EXP0234,PTQ-2bO2,Anisole,13,holdout
+234,EXP0235,PTQ-2bO2,Anisole,13,holdout
+235,EXP0236,PTQ-2bO2,Anisole,13,holdout
+236,EXP0237,PTQ-2bO2,o-Dichlorobenzene,13,holdout
+237,EXP0238,PTQ-2bO2,o-Dichlorobenzene,13,holdout
+238,EXP0239,PTQ-2bO2,o-Dichlorobenzene,13,holdout
+239,EXP0240,PTQ-2bO2,o-Dichlorobenzene,13,holdout
+240,EXP0241,PTQ-2bO2,o-Dichlorobenzene,13,holdout
+241,EXP0242,PTQ-2bO2,o-Dichlorobenzene,13,holdout
+242,EXP0243,PTQ-2bO2,Chlorobenzene,13,holdout
+243,EXP0244,PTQ-2bO2,Chlorobenzene,13,holdout
+244,EXP0245,PTQ-2bO2,Chlorobenzene,13,holdout
+245,EXP0246,PTQ-4bO2,Chloroform,14,development
+246,EXP0247,PTQ-4bO2,Chlorobenzene,14,development
+247,EXP0248,PTQ-4bO2,Chlorobenzene,14,development
+248,EXP0249,PTQ-4bO2,Chlorobenzene,14,development
+249,EXP0250,PTQ-4bO2,Chlorobenzene,14,development
+250,EXP0251,PTQ-4bO2,Chlorobenzene,14,development
+251,EXP0252,PTQ-4bO2,o-Dichlorobenzene,14,development
+252,EXP0253,PTQ-4bO2,o-Dichlorobenzene,14,development
+253,EXP0254,PTQ-4bO2,o-Dichlorobenzene,14,development
+254,EXP0255,PTQ-4bO2,o-Dichlorobenzene,14,development
+255,EXP0256,PTQ-4bO2,70% Chlorobenzene + 30% Methanol,14,development
+256,EXP0257,PTQ-4bO2,70% Chlorobenzene + 30% Methanol,14,development
+257,EXP0258,PTQ-4bO2,70% Chlorobenzene + 30% Methanol,14,development
+258,EXP0259,PTQ-4bO2,70% Chlorobenzene + 30% Methanol,14,development
+259,EXP0260,PTQ-4bO2,70% Chlorobenzene + 30% Methanol,14,development
+260,EXP0261,PTQ-4bO2,30% Chlorobenzene + 70% Methanol,14,development
+261,EXP0262,PTQ-4bO2,30% Chlorobenzene + 70% Methanol,14,development
+262,EXP0263,PTQ-4bO2,30% Chlorobenzene + 70% Methanol,14,development
+263,EXP0264,PTQ-6bO,Chloroform,15,holdout
+264,EXP0265,PTQ-6bO,o-Dichlorobenzene,15,holdout
+265,EXP0266,PTQ-6bO,o-Dichlorobenzene,15,holdout
+266,EXP0267,PTQ-6bO,o-Dichlorobenzene,15,holdout
+267,EXP0268,PTQ-6bO,o-Dichlorobenzene,15,holdout
+268,EXP0269,PTQ-6bO,Anisole,15,holdout
+269,EXP0270,PTQ-6bO,Anisole,15,holdout
+270,EXP0271,PTQ-6bO,Anisole,15,holdout
+271,EXP0272,PTQ-6bO,Anisole,15,holdout
+272,EXP0273,PTQ-6bO,PGMEA,15,holdout
+273,EXP0274,PTQ-6bO,PGMEA,15,holdout
+274,EXP0275,PTQ-6bO,PGMEA,15,holdout
+275,EXP0276,PTQ-6bO,PGMEA,15,holdout
+276,EXP0277,PTQ-6bO,PGMEA,15,holdout
+277,EXP0278,PTQ-6bO,PGMEA,15,holdout
+278,EXP0279,PTQ-6O,Chlorobenzene,16,holdout
+279,EXP0280,PTQ-6O,Chlorobenzene,16,holdout
+280,EXP0281,PTQ-6O,Chlorobenzene,16,holdout
+281,EXP0282,PTQ-6O,Chlorobenzene,16,holdout
+282,EXP0283,PTQ-6bO2,Chlorobenzene,17,development
+283,EXP0284,PTQ-6bO2,Chlorobenzene,17,development
+284,EXP0285,PTQ-6bO2,Chlorobenzene,17,development
+285,EXP0286,PTQ-6bO2,Chlorobenzene,17,development
+286,EXP0287,PTQ-6bO2,Chlorobenzene,17,development
+287,EXP0288,N2200 - 3.6 k,Chlorobenzene,18,development
+288,EXP0289,N2200 - 3.6 k,Chlorobenzene,18,development
+289,EXP0290,N2200 - 3.6 k,Chlorobenzene,18,development
+290,EXP0291,N2200 - 5.7 k,Chlorobenzene,18,development
+291,EXP0292,N2200 - 5.7 k,Chlorobenzene,18,development
+292,EXP0293,N2200 - 5.7 k,Chlorobenzene,18,development
+293,EXP0294,N2200 - 5.7 k,Chloroform,18,development
+294,EXP0295,N2200 - 5.7 k,Chloroform,18,development
+295,EXP0296,N2200 - 5.7 k,Chloroform,18,development
+296,EXP0297,N2200 - 5.7 k,Anisole,18,development
+297,EXP0298,N2200 - 5.7 k,Anisole,18,development
+298,EXP0299,N2200 - 5.7 k,Anisole,18,development
+299,EXP0300,N2200 - 9.1 k,Chloroform,18,development
+300,EXP0301,N2200 - 9.1 k,Chloroform,18,development
+301,EXP0302,N2200 - 9.1 k,Chloroform,18,development
+302,EXP0303,N2200 - 9.1 k,Chloroform,18,development
+303,EXP0304,N2200 - 9.1 k,Chloroform,18,development
+304,EXP0305,N2200 - 9.1 k,Chloroform,18,development
+305,EXP0306,N2200 - 9.1 k,Chloroform,18,development
+306,EXP0307,N2200 - 9.1 k,Chloroform,18,development
+307,EXP0308,N2200 - 9.1 k,Chloroform,18,development
+308,EXP0309,N2200 - 9.1 k,Chlorobenzene,18,development
+309,EXP0310,N2200 - 9.1 k,Chlorobenzene,18,development
+310,EXP0311,N2200 - 9.1 k,Chlorobenzene,18,development
+311,EXP0312,N2200 - 9.1 k,Chlorobenzene,18,development
+312,EXP0313,N2200 - 9.1 k,Chlorobenzene,18,development
+313,EXP0314,N2200 - 9.1 k,Chlorobenzene,18,development
+314,EXP0315,N2200 - 9.1 k,Chlorobenzene,18,development
+315,EXP0316,N2200 - 9.1 k,Chlorobenzene,18,development
+316,EXP0317,N2200 - 9.1 k,Chlorobenzene,18,development
+317,EXP0318,N2200 - 9.1 k,Chlorobenzene,18,development
+318,EXP0319,N2200 - 9.1 k,Chlorobenzene,18,development
+319,EXP0320,N2200 - 9.1 k,Chlorobenzene,18,development
+320,EXP0321,N2200 - 9.1 k,Chlorobenzene,18,development
+321,EXP0322,N2200 - 9.1 k,Chlorobenzene,18,development
+322,EXP0323,N2200 - 9.1 k,Chlorobenzene,18,development
+323,EXP0324,N2200 - 9.1 k,Chlorobenzene,18,development
+324,EXP0325,N2200 - 9.1 k,Chlorobenzene,18,development
+325,EXP0326,N2200 - 9.1 k,Chlorobenzene,18,development
+326,EXP0327,N2200 - 9.1 k,Chlorobenzene,18,development
+327,EXP0328,N2200 - 9.1 k,Chlorobenzene,18,development
+328,EXP0329,N2200 - 9.1 k,Chlorobenzene,18,development
+329,EXP0330,N2200 - 9.1 k,Chlorobenzene,18,development
+330,EXP0331,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+331,EXP0332,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+332,EXP0333,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+333,EXP0334,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+334,EXP0335,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+335,EXP0336,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+336,EXP0337,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+337,EXP0338,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+338,EXP0339,N2200 - 9.1 k,o-Dichlorobenzene,18,development
+339,EXP0340,N2200 - 9.1 k,Toluene,18,development
+340,EXP0341,N2200 - 9.1 k,Toluene,18,development
+341,EXP0342,N2200 - 9.1 k,Toluene,18,development
+342,EXP0343,N2200 - 9.1 k,Toluene,18,development
+343,EXP0344,N2200 - 9.1 k,Toluene,18,development
+344,EXP0345,N2200 - 9.1 k,Toluene,18,development
+345,EXP0346,N2200 - 9.1 k,Toluene,18,development
+346,EXP0347,N2200 - 9.1 k,Toluene,18,development
+347,EXP0348,N2200 - 9.1 k,Toluene,18,development
+348,EXP0349,N2200 - 9.1 k,p-Xylene,18,development
+349,EXP0350,N2200 - 9.1 k,p-Xylene,18,development
+350,EXP0351,N2200 - 9.1 k,p-Xylene,18,development
+351,EXP0352,N2200 - 9.1 k,p-Xylene,18,development
+352,EXP0353,N2200 - 9.1 k,p-Xylene,18,development
+353,EXP0354,N2200 - 9.1 k,p-Xylene,18,development
+354,EXP0355,N2200 - 9.1 k,p-Xylene,18,development
+355,EXP0356,N2200 - 9.1 k,p-Xylene,18,development
+356,EXP0357,N2200 - 9.1 k,p-Xylene,18,development
+357,EXP0358,N2200 - 9.1 k,Anisole,18,development
+358,EXP0359,N2200 - 9.1 k,Anisole,18,development
+359,EXP0360,N2200 - 9.1 k,Anisole,18,development
+360,EXP0361,N2200 - 9.1 k,Anisole,18,development
+361,EXP0362,N2200 - 9.1 k,Anisole,18,development
+362,EXP0363,N2200 - 9.1 k,Anisole,18,development
+363,EXP0364,N2200 - 9.1 k,Anisole,18,development
+364,EXP0365,N2200 - 9.1 k,Anisole,18,development
+365,EXP0366,N2200 - 9.1 k,Anisole,18,development
+366,EXP0367,N2200 - 22.0 k,Chlorobenzene,18,development
+367,EXP0368,N2200 - 22.0 k,Chlorobenzene,18,development
+368,EXP0369,N2200 - 22.0 k,Chlorobenzene,18,development
+369,EXP0370,N2200 - 22.0 k,Chlorobenzene,18,development
+370,EXP0371,N2200 - 22.0 k,Chlorobenzene,18,development
+371,EXP0372,N2200 - 22.0 k,Chlorobenzene,18,development
+372,EXP0373,N2200 - 22.0 k,Chlorobenzene,18,development
+373,EXP0374,N2200 - 22.0 k,Chlorobenzene,18,development
+374,EXP0375,N2200 - 22.0 k,Chlorobenzene,18,development
+375,EXP0376,N2200 - 22.0 k,Chlorobenzene,18,development
+376,EXP0377,N2200 - 50.0 k,Chlorobenzene,18,development
+377,EXP0378,N2200 - 50.0 k,Chlorobenzene,18,development
+378,EXP0379,N2200 - 50.0 k,Chlorobenzene,18,development
+379,EXP0380,N2200 - 50.0 k,Chlorobenzene,18,development
+380,EXP0381,N2200 - 50.0 k,Chlorobenzene,18,development
+381,EXP0382,N2200 - 130.0 k,Chlorobenzene,18,development
+382,EXP0383,N2200 - 130.0 k,Chlorobenzene,18,development
+383,EXP0384,N2200 - 130.0 k,Chlorobenzene,18,development
+384,EXP0385,N2200 - 130.0 k,Chlorobenzene,18,development
+385,EXP0386,N2200 - 130.0 k,Chlorobenzene,18,development
+386,EXP0387,N2200 - 130.0 k,Chlorobenzene,18,development
+387,EXP0388,N2200-OEG,Chloroform,19,holdout
+388,EXP0389,N2200-OEG,Chloroform,19,holdout
+389,EXP0390,N2200-OEG,Anisole,19,holdout
+390,EXP0391,N2200-OEG,Anisole,19,holdout
+391,EXP0392,N2200-OEG,Anisole,19,holdout
+392,EXP0393,N2200-OEG,Anisole,19,holdout
+393,EXP0394,p(C3NDI-T),Chloroform,20,holdout
+394,EXP0395,p(C3NDI-T),Chloroform,20,holdout
+395,EXP0396,p(C3NDI-T),Chlorobenzene,20,holdout
+396,EXP0397,p(C3NDI-T),Chlorobenzene,20,holdout
+397,EXP0398,p(C3NDI-T),o-Dichlorobenzene,20,holdout
+398,EXP0399,p(C3NDI-T),o-Dichlorobenzene,20,holdout
+399,EXP0400,p(C3NDI-T),Toluene,20,holdout
+400,EXP0401,p(C3NDI-T),Toluene,20,holdout
+401,EXP0402,p(C3NDI-T),p-Xylene,20,holdout
+402,EXP0403,p(C3NDI-T),p-Xylene,20,holdout
+403,EXP0404,p(C3NDI-T),Anisole,20,holdout
+404,EXP0405,p(C3NDI-T),Anisole,20,holdout
+405,EXP0406,p(C6NDI-T),Chloroform,21,development
+406,EXP0407,p(C6NDI-T),Chloroform,21,development
+407,EXP0408,p(C6NDI-T),Chlorobenzene,21,development
+408,EXP0409,p(C6NDI-T),Chlorobenzene,21,development
+409,EXP0410,p(C6NDI-T),o-Dichlorobenzene,21,development
+410,EXP0411,p(C6NDI-T),o-Dichlorobenzene,21,development
+411,EXP0412,p(C6NDI-T),Toluene,21,development
+412,EXP0413,p(C6NDI-T),Toluene,21,development
+413,EXP0414,p(C6NDI-T),p-Xylene,21,development
+414,EXP0415,p(C6NDI-T),p-Xylene,21,development
+415,EXP0416,p(C6NDI-T),Anisole,21,development
+416,EXP0417,p(C6NDI-T),Anisole,21,development
+417,EXP0418,PII,Chlorobenzene,22,development
+418,EXP0419,PII,Chlorobenzene,22,development
+419,EXP0420,PII,Chlorobenzene,22,development
+420,EXP0421,PII,Chlorobenzene,22,development
+421,EXP0422,PII-T,Chlorobenzene,23,development
+422,EXP0423,PII-T,Chlorobenzene,23,development
+423,EXP0424,PII-T,Chlorobenzene,23,development
+424,EXP0425,PII-TT,Chlorobenzene,24,development
+425,EXP0426,PII-TT,Chlorobenzene,24,development
+426,EXP0427,PII-TT,Chlorobenzene,24,development
+427,EXP0428,PII-TT,Chlorobenzene,24,development
+428,EXP0429,PII-TT,Chlorobenzene,24,development
+429,EXP0430,PII-TT,Chlorobenzene,24,development
+430,EXP0431,PTII-2T,Chlorobenzene,25,development
+431,EXP0432,PTII-2T,Chlorobenzene,25,development
+432,EXP0433,PTII-2T,Chlorobenzene,25,development
+433,EXP0434,PTII-2T,Chlorobenzene,25,development
+434,EXP0435,PII-3T,Chlorobenzene,26,development
+435,EXP0436,PII-3T,Chlorobenzene,26,development
+436,EXP0437,PII-3T,Chlorobenzene,26,development
+437,EXP0438,PII-3T,Chlorobenzene,26,development
+438,EXP0439,PII-3T,Trichlorobenzene,26,development
+439,EXP0440,PII-3T,Trichlorobenzene,26,development
+440,EXP0441,PII-3T,Trichlorobenzene,26,development
+441,EXP0442,PII-3T,Trichlorobenzene,26,development
+442,EXP0443,PII-3T,Trichlorobenzene,26,development
+443,EXP0444,PII-3T,Trichlorobenzene,26,development
+444,EXP0445,PII-TTT,Chlorobenzene,27,development
+445,EXP0446,PII-TTT,Chlorobenzene,27,development
+446,EXP0447,PII-TTT,Chlorobenzene,27,development
+447,EXP0448,PII-2T (C8-C10),Chloroform,28,development
+448,EXP0449,PII-2T (C8-C10),Chloroform,28,development
+449,EXP0450,PII-2T (C8-C10),Chloroform,28,development
+450,EXP0451,PII-2T (C8-C10),Chloroform,28,development
+451,EXP0452,PII-2T (C8-C10),Chloroform,28,development
+452,EXP0453,PII-2T (C8-C10),Chloroform,28,development
+453,EXP0454,PII-2T (C8-C10),Chloroform,28,development
+454,EXP0455,PII-2T (C8-C10),Chloroform,28,development
+455,EXP0456,PII-2T (C8-C10),Chloroform,28,development
+456,EXP0457,PII-2T (C8-C10),Chlorobenzene,28,development
+457,EXP0458,PII-2T (C8-C10),Chlorobenzene,28,development
+458,EXP0459,PII-2T (C8-C10),Chlorobenzene,28,development
+459,EXP0460,PII-2T (C8-C10),Chlorobenzene,28,development
+460,EXP0461,PII-2T (C8-C10),Chlorobenzene,28,development
+461,EXP0462,PII-2T (C8-C10),Chlorobenzene,28,development
+462,EXP0463,PII-2T (C8-C10),Chlorobenzene,28,development
+463,EXP0464,PII-2T (C8-C10),Chlorobenzene,28,development
+464,EXP0465,PII-2T (C8-C10),Chlorobenzene,28,development
+465,EXP0466,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+466,EXP0467,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+467,EXP0468,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+468,EXP0469,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+469,EXP0470,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+470,EXP0471,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+471,EXP0472,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+472,EXP0473,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+473,EXP0474,PII-2T (C8-C10),o-Dichlorobenzene,28,development
+474,EXP0475,PII-2T (C8-C10),Toluene,28,development
+475,EXP0476,PII-2T (C8-C10),Toluene,28,development
+476,EXP0477,PII-2T (C8-C10),Toluene,28,development
+477,EXP0478,PII-2T (C8-C10),Toluene,28,development
+478,EXP0479,PII-2T (C8-C10),Toluene,28,development
+479,EXP0480,PII-2T (C8-C10),Toluene,28,development
+480,EXP0481,PII-2T (C8-C10),Toluene,28,development
+481,EXP0482,PII-2T (C8-C10),Toluene,28,development
+482,EXP0483,PII-2T (C8-C10),Toluene,28,development
+483,EXP0484,PII-2T (C8-C10),p-Xylene,28,development
+484,EXP0485,PII-2T (C8-C10),p-Xylene,28,development
+485,EXP0486,PII-2T (C8-C10),p-Xylene,28,development
+486,EXP0487,PII-2T (C8-C10),p-Xylene,28,development
+487,EXP0488,PII-2T (C8-C10),p-Xylene,28,development
+488,EXP0489,PII-2T (C8-C10),p-Xylene,28,development
+489,EXP0490,PII-2T (C8-C10),p-Xylene,28,development
+490,EXP0491,PII-2T (C8-C10),p-Xylene,28,development
+491,EXP0492,PII-2T (C8-C10),p-Xylene,28,development
+492,EXP0493,PII-2T (C8-C10),Anisole,28,development
+493,EXP0494,PII-2T (C8-C10),Anisole,28,development
+494,EXP0495,PII-2T (C8-C10),Anisole,28,development
+495,EXP0496,PII-2T (C10-C10) - 18.8k,Chlorobenzene,29,development
+496,EXP0497,PII-2T (C10-C10) - 18.8k,Chlorobenzene,29,development
+497,EXP0498,PII-2T (C10-C10) - 18.8k,Chlorobenzene,29,development
+498,EXP0499,PII-2T (C10-C10) - 18.8k,Chlorobenzene,29,development
+499,EXP0500,PII-2T (C10-C10) - 22.8k,o-Dichlorobenzene,29,development
+500,EXP0501,PII-2T (C10-C10) - 22.8k,o-Dichlorobenzene,29,development
+501,EXP0502,PII-2T (C10-C10) - 22.8k,o-Dichlorobenzene,29,development
+502,EXP0503,PII-2T (C10-C10) - 22.8k,Decane,29,development
+503,EXP0504,PII-2T (C10-C10) - 22.8k,Decane,29,development
+504,EXP0505,PII-2T (C10-C10) - 22.8k,Decane,29,development
+505,EXP0506,PII-2T (C10-C10) - 22.8k,Decane,29,development
+506,EXP0507,PII-2T (C10-C10) - 22.8k,Decane,29,development
+507,EXP0508,PII-2T (C10-C10) - 22.8k,Decane,29,development
+508,EXP0509,PII-2T (C10-C10) - 22.8k,1-Chloronaphthalene,29,development
+509,EXP0510,PII-2T (C10-C10) - 22.8k,1-Chloronaphthalene,29,development
+510,EXP0511,PII-2T (C10-C10) - 22.8k,1-Chloronaphthalene,29,development
+511,EXP0512,PII-2T (C10-C10) - 22.8k,1-Chloronaphthalene,29,development
+512,EXP0513,PII-2T (C10-C10) - 22.8k,1-Chloronaphthalene,29,development
+513,EXP0514,PII-2T (C10-C10) - 22.8k,1-Chloronaphthalene,29,development
+514,EXP0515,PII-2T (C10-C10) - 23.8k,Chloroform,29,development
+515,EXP0516,PII-2T (C10-C10) - 23.8k,Chloroform,29,development
+516,EXP0517,PII-2T (C10-C10) - 23.8k,Chloroform,29,development
+517,EXP0518,PII-2T (C10-C10) - 23.8k,Chloroform,29,development
+518,EXP0519,PII-2T (C10-C10) - 23.8k,Chloroform,29,development
+519,EXP0520,PII-2T (C10-C10) - 23.8k,Chloroform,29,development
+520,EXP0521,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+521,EXP0522,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+522,EXP0523,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+523,EXP0524,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+524,EXP0525,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+525,EXP0526,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+526,EXP0527,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+527,EXP0528,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+528,EXP0529,PII-2T (C10-C10) - 23.8k,Chlorobenzene,29,development
+529,EXP0530,PII-2T (C10-C10) - 23.8k,o-Dichlorobenzene,29,development
+530,EXP0531,PII-2T (C10-C10) - 23.8k,o-Dichlorobenzene,29,development
+531,EXP0532,PII-2T (C10-C10) - 23.8k,o-Dichlorobenzene,29,development
+532,EXP0533,PII-2T (C10-C10) - 23.8k,o-Dichlorobenzene,29,development
+533,EXP0534,PII-2T (C10-C10) - 23.8k,o-Dichlorobenzene,29,development
+534,EXP0535,PII-2T (C10-C10) - 23.8k,o-Dichlorobenzene,29,development
+535,EXP0536,PII-2T (C10-C10) - 23.8k,Toluene,29,development
+536,EXP0537,PII-2T (C10-C10) - 23.8k,Toluene,29,development
+537,EXP0538,PII-2T (C10-C10) - 23.8k,Toluene,29,development
+538,EXP0539,PII-2T (C10-C10) - 23.8k,p-Xylene,29,development
+539,EXP0540,PII-2T (C10-C10) - 23.8k,p-Xylene,29,development
+540,EXP0541,PII-2T (C10-C10) - 23.8k,p-Xylene,29,development
+541,EXP0542,PII-2T (C10-C10) - 23.8k,Anisole,29,development
+542,EXP0543,PII-2T (C10-C10) - 23.8k,Anisole,29,development
+543,EXP0544,PII-2T (C10-C10) - 23.8k,Anisole,29,development
+544,EXP0545,DPP2T-T4,Chlorobenzene,30,development
+545,EXP0546,DPP2T-T4,Chlorobenzene,30,development
+546,EXP0547,DPP2T-T4,Chlorobenzene,30,development
+547,EXP0548,DPP2T-T4,Chlorobenzene,30,development
+548,EXP0549,DPP2T-T2F2,Chlorobenzene,31,development
+549,EXP0550,DPP2T-T2F2,Chlorobenzene,31,development
+550,EXP0551,DPP2T-T2F2,Chlorobenzene,31,development
+551,EXP0552,DPP2T-T2F2,Chlorobenzene,31,development
+552,EXP0553,DPP2T-T2M2,Chlorobenzene,32,holdout
+553,EXP0554,DPP2T-T2M2,Chlorobenzene,32,holdout
+554,EXP0555,DPP2T-T2M2,Chlorobenzene,32,holdout
+555,EXP0556,DPP2T-T2M2,Chlorobenzene,32,holdout
+556,EXP0557,DPP2T-TT,Chlorobenzene,33,development
+557,EXP0558,DPP2T-TT,Chlorobenzene,33,development
+558,EXP0559,DPP2T-TT,Chlorobenzene,33,development
+559,EXP0560,DPP2T-TT,Chlorobenzene,33,development
+560,EXP0561,DPP2T-Btz,Chlorobenzene,34,development
+561,EXP0562,DPP2T-Btz,Chlorobenzene,34,development
+562,EXP0563,DPP2T-Btz,Chlorobenzene,34,development
+563,EXP0564,DPP-DTT,Chloroform,35,development
+564,EXP0565,DPP-DTT,Chloroform,35,development
+565,EXP0566,DPP-DTT,Chloroform,35,development
+566,EXP0567,DPP-DTT,Chloroform,35,development
+567,EXP0568,DPP-DTT,Chloroform,35,development
+568,EXP0569,DPP-DTT,Chloroform,35,development
+569,EXP0570,DPP-DTT,Chloroform,35,development
+570,EXP0571,DPP-DTT,Chloroform,35,development
+571,EXP0572,DPP-DTT,Chloroform,35,development
+572,EXP0573,DPP-DTT,Chlorobenzene,35,development
+573,EXP0574,DPP-DTT,Chlorobenzene,35,development
+574,EXP0575,DPP-DTT,Chlorobenzene,35,development
+575,EXP0576,DPP-DTT,Chlorobenzene,35,development
+576,EXP0577,DPP-DTT,Chlorobenzene,35,development
+577,EXP0578,DPP-DTT,Chlorobenzene,35,development
+578,EXP0579,DPP-DTT,Chlorobenzene,35,development
+579,EXP0580,DPP-DTT,Chlorobenzene,35,development
+580,EXP0581,DPP-DTT,Chlorobenzene,35,development
+581,EXP0582,DPP-DTT,o-Dichlorobenzene,35,development
+582,EXP0583,DPP-DTT,o-Dichlorobenzene,35,development
+583,EXP0584,DPP-DTT,o-Dichlorobenzene,35,development
+584,EXP0585,DPP-DTT,o-Dichlorobenzene,35,development
+585,EXP0586,DPP-DTT,o-Dichlorobenzene,35,development
+586,EXP0587,DPP-DTT,o-Dichlorobenzene,35,development
+587,EXP0588,DPP-DTT,o-Dichlorobenzene,35,development
+588,EXP0589,DPP-DTT,o-Dichlorobenzene,35,development
+589,EXP0590,DPP-DTT,o-Dichlorobenzene,35,development
+590,EXP0591,DPP-DTT,Toluene,35,development
+591,EXP0592,DPP-DTT,p-Xylene,35,development
+592,EXP0593,DPP-DTT,p-Xylene,35,development
+593,EXP0594,DPP-DTT,Tetrachloroethylene,35,development
+594,EXP0595,PyDPP-2T (C8C10),Tetrachloroethylene,36,holdout
+595,EXP0596,PyDPP-2T (C8C10),Tetrachloroethylene,36,holdout
+596,EXP0597,PyDPP-2T (C8C10),Tetrachloroethylene,36,holdout
+597,EXP0598,PyDPP-2T (C10C12),Tetrachloroethylene,37,development
+598,EXP0599,PyDPP-2T (C10C12),Tetrachloroethylene,37,development
+599,EXP0600,PyDPP-2T (C10C12),Tetrachloroethylene,37,development
+600,EXP0601,PyDPP-2T (C10C12),Tetrachloroethylene,37,development
+601,EXP0602,PyDPP-2T (C10C12),Tetrachloroethylene,37,development
+602,EXP0603,PyDPP-2T2F,Tetrachloroethylene,38,development
+603,EXP0604,PyDPP-2T2F,Tetrachloroethylene,38,development
+604,EXP0605,PyDPP-2T2F,Tetrachloroethylene,38,development
+605,EXP0606,PE2-biOE2,13-Dioxane,39,development
+606,EXP0607,PE2-biOE2,13-Dioxane,39,development
+607,EXP0608,PE2-biOE2,o-Dichlorobenzene,39,development
+608,EXP0609,PE2-biOE2,o-Dichlorobenzene,39,development
+609,EXP0610,PE2-biOE2,Anisole,39,development
+610,EXP0611,PE2-biOE3,13-Dioxane,40,development
+611,EXP0612,PE2-biOE3,13-Dioxane,40,development
+612,EXP0613,ProDOT(OE3)-co-ProDOT(Oct),Chloroform,41,development
+613,EXP0614,ProDOT(OE3)-co-ProDOT(Oct),Chloroform,41,development
+614,EXP0615,ProDOT(OE3)-co-ProDOT(Oct),Chloroform,41,development
+615,EXP0616,ProDOT(OE3)-co-ProDOT(EtHx),Chloroform,42,development
+616,EXP0617,ProDOT(OE3)-co-ProDOT(EtHx),Chloroform,42,development
+617,EXP0618,ProDOT(OE3)-co-ProDOT(EtHx),Chloroform,42,development
+618,EXP0619,ProDOT(OE3)-co-ProDOT(EtHx),Chloroform,42,development
+619,EXP0620,PE2-biOE2OE3 - 16k,Chlorobenzene,43,development
+620,EXP0621,PE2-biOE2OE3 - 16k,Chlorobenzene,43,development
+621,EXP0622,PE2-biOE2OE3 - 16k,Chlorobenzene,43,development
+622,EXP0623,PE2-biOE2OE3 - 16k,13-Dioxane,43,development
+623,EXP0624,PE2-biOE2OE3 - 16k,60% Chlorobenzene + 40% Anisole,43,development
+624,EXP0625,PE2-biOE2OE3 - 16k,60% Chlorobenzene + 40% Anisole,43,development
+625,EXP0626,PE2-biOE2OE3 - 16k,60% Chlorobenzene + 40% Anisole,43,development
+626,EXP0627,PE2-biOE2OE3 - 19.8k,Chlorobenzene,43,development
+627,EXP0628,PE2-biOE2OE3 - 19.8k,Chlorobenzene,43,development
+628,EXP0629,PE2-biOE2OE3 - 19.8k,Chlorobenzene,43,development
+629,EXP0630,PE2-biOE2OE3 - 20k,13-Dioxane,43,development
+630,EXP0631,PE2-biOE2OE3 - 20k,13-Dioxane,43,development
+631,EXP0632,PE2-biOE2OE3 - 20k,13-Dioxane,43,development
+632,EXP0633,PE2-biOE2OE3 - 20k,13-Dioxane,43,development
+633,EXP0634,PE2-biOE2OE3 - 20k,13-Dioxane,43,development
+634,EXP0635,PE2-biOE2OE3 - 20k,13-Dioxane,43,development
+635,EXP0636,PE2-biOE2OE3 - 20k,Diglyme,43,development
+636,EXP0637,PE2-biOE2OE3 - 20k,Diglyme,43,development
+637,EXP0638,PE2-biOE2OE3 - 20k,Diglyme,43,development
+638,EXP0639,PE2-biOE2OE3 - 20k,Diglyme,43,development
+639,EXP0640,PE2-biOE2OE3 - 20k,14-Dioxane,43,development
+640,EXP0641,PE2-biOE2OE3 - 20k,14-Dioxane,43,development
+641,EXP0642,PE2-biOE2OE3 - 20k,14-Dioxane,43,development
+642,EXP0643,PM7,Chlorobenzene,44,development
+643,EXP0644,PM7,Chlorobenzene,44,development
+644,EXP0645,PM7,Chlorobenzene,44,development
+645,EXP0646,PM7 D1,Chlorobenzene,45,development
+646,EXP0647,PM7 D1,Chlorobenzene,45,development
+647,EXP0648,PM7 D1,Chlorobenzene,45,development
+648,EXP0649,PM7 D2,Chlorobenzene,46,development
+649,EXP0650,PM7 D2,Chlorobenzene,46,development
+650,EXP0651,PM7 D2,Chlorobenzene,46,development
+651,EXP0652,PM7 3ET2,Chlorobenzene,47,development
+652,EXP0653,PM7 3ET2,Chlorobenzene,47,development
+653,EXP0654,PM7 3ET2,Chlorobenzene,47,development
+654,EXP0655,PM7 2ET2,Chlorobenzene,48,holdout
+655,EXP0656,PM7 2ET2,Chlorobenzene,48,holdout
+656,EXP0657,PM7 2ET2,Chlorobenzene,48,holdout
+657,EXP0658,TPT(alkyl)-E,Chlorobenzene,49,holdout
+658,EXP0659,TPT(alkyl)-E,Chlorobenzene,49,holdout
+659,EXP0660,TPT(alkyl)-E,Chlorobenzene,49,holdout
+660,EXP0661,TPT(alkyl)-2E,Chlorobenzene,50,development
+661,EXP0662,TPT(alkyl)-2E,Chlorobenzene,50,development
+662,EXP0663,TPT(alkyl)-2E,Chlorobenzene,50,development
+663,EXP0664,TPT(mixed)-E,Chloroform,51,development
+664,EXP0665,TPT(mixed)-E,Chloroform,51,development
+665,EXP0666,TPT(mixed)-E,Chloroform,51,development
+666,EXP0667,TPT(OEG)-E,Chloroform,52,development
+667,EXP0668,TPT(OEG)-E,Chloroform,52,development
+668,EXP0669,TPT(OEG)-E,Chloroform,52,development
+669,EXP0670,TPT(OEG)-E,Anisole,52,development
+670,EXP0671,TPT(OEG)-E,Anisole,52,development
+671,EXP0672,TPT(OEG)-E,Anisole,52,development
+672,EXP0673,TPT(OEG)-E,Anisole,52,development
+673,EXP0674,TPT(OEG)-E,Anisole,52,development
+674,EXP0675,TPT(OEG)-E,Anisole,52,development
+675,EXP0676,TPT(OEG)-E,o-Dichlorobenzene,52,development
+676,EXP0677,TPT(OEG)-E,o-Dichlorobenzene,52,development
+677,EXP0678,TPT(OEG)-E,o-Dichlorobenzene,52,development
+678,EXP0679,TPT(OEG)-E,o-Dichlorobenzene,52,development
+679,EXP0680,TPT(OEG)-E,o-Dichlorobenzene,52,development
+680,EXP0681,TPT(OEG)-E,o-Dichlorobenzene,52,development
+681,EXP0682,TPT(OEG)-E,Chlorobenzene,52,development
+682,EXP0683,TPT(OEG)-E,Chlorobenzene,52,development
+683,EXP0684,TPT(OEG)-E,Chlorobenzene,52,development
+684,EXP0685,TPT(OEG)-E,Toluene,52,development
+685,EXP0686,TPT(OEG)-E,Toluene,52,development
+686,EXP0687,TPT(OEG)-E,Toluene,52,development
+687,EXP0688,TPT(OEG)-E,p-Xylene,52,development
+688,EXP0689,TPT(OEG)-E,p-Xylene,52,development
+689,EXP0690,TPT(OEG)-E,p-Xylene,52,development
+690,EXP0691,TPT-T,Chlorobenzene,53,development
+691,EXP0692,TPT-T,Chlorobenzene,53,development
+692,EXP0693,TPT-T,Chlorobenzene,53,development
+693,EXP0694,BBL4 - 58.0k,Methanesulfonic acid,54,development
+694,EXP0695,BBL4 - 58.0k,20/21 Methanesulfonic acid + 1/21 Dipropylamine,54,development
+695,EXP0696,BBL4 - 58.0k,10/11 Methanesulfonic acid + 1/11 Dipropylamine,54,development
+696,EXP0697,BBL4 - 58.0k,5/6 Methanesulfonic acid + 1/6 Dipropylamine,54,development
+697,EXP0698,BBL4 - 58.0k,3/4 Methanesulfonic acid + 1/4 Dipropylamine,54,development
+698,EXP0699,BBL4 - 58.0k,2/3 Methanesulfonic acid + 1/3 Dipropylamine,54,development
+699,EXP0700,BBL2 - 39.3k,Methanesulfonic acid,54,development
+700,EXP0701,BBL12 - 102.5k,Methanesulfonic acid,54,development
+701,EXP0702,BBB - 59.7k,Methanesulfonic acid,55,development
+702,EXP0703,BBB - 59.7k,Methanesulfonic acid,55,development
+703,EXP0704,BBB - 40.8k,Methanesulfonic acid,55,development
+704,EXP0705,BBB - 40.8k,Methanesulfonic acid,55,development
+705,EXP0706,D18,Chloroform,56,development
+706,EXP0707,D18,Chloroform,56,development
+707,EXP0708,D18,Chloroform,56,development
+708,EXP0709,D18,Chloroform,56,development
+709,EXP0710,D18,Chloroform,56,development
+710,EXP0711,IDTBT,Chlorobenzene,57,holdout
+711,EXP0712,IDTBT,Chlorobenzene,57,holdout
+712,EXP0713,IDTBT,Chlorobenzene,57,holdout
+713,EXP0714,F8BT,Chlorobenzene,58,holdout
+714,EXP0715,F8BT,Chlorobenzene,58,holdout
+715,EXP0716,F8BT,Chlorobenzene,58,holdout
+716,EXP0717,F8BT,Chlorobenzene,58,holdout
+717,EXP0718,N2200 - 50.0 k,o-Dichlorobenzene,18,development
+718,EXP0719,N2200 - 50.0 k,Tetrachloroethylene,18,development
+719,EXP0720,F8BT,Toluene,58,holdout
+720,EXP0721,F8BT,Chloroform,58,holdout
+721,EXP0722,PII-2T (C10-C10) - 23.8k,Tetrahydrofuran,29,development
+722,EXP0723,DPP-DTT,Tetrahydrofuran,35,development
+723,EXP0724,DPP-DTT,Methanesulfonic acid,35,development
+724,EXP0725,DPP-DTT,Methanesulfonic acid,35,development
+725,EXP0726,DPP-DTT,Methanesulfonic acid,35,development
+726,EXP0727,BBB - 59.7k,Chloroform,55,development
+727,EXP0728,BBB - 59.7k,Chlorobenzene,55,development
+728,EXP0729,BBB - 40.8k,Chloroform,55,development
+729,EXP0730,BBB - 40.8k,Chlorobenzene,55,development
+730,EXP0731,PII-TTT,Chloroform,27,development
+731,EXP0732,PII-TTT,Tetrachloroethylene,27,development
+732,EXP0733,g32T-T,Chlorobenzene,2,development
+733,EXP0734,g32T-T,1-Chloronaphthalene,2,development
+734,EXP0735,g32T-T,Dimethylformamide,2,development
+735,EXP0736,g32T-T,Trichloroethylene,2,development
+736,EXP0737,g32T-T,Toluene,2,development
+737,EXP0738,g32T-T,p-Xylene,2,development
+738,EXP0739,P3HT,Toluene,5,development
+739,EXP0740,P3HT,Toluene,5,development
+740,EXP0741,P3HT,Toluene,5,development
+741,EXP0742,P3HT,o-Dichlorobenzene,5,development
+742,EXP0743,P3HT,o-Dichlorobenzene,5,development
+743,EXP0744,P3HT,o-Dichlorobenzene,5,development
+744,EXP0745,P3HT,Anisole,5,development
+745,EXP0746,P3HT,Anisole,5,development
+746,EXP0747,P3HT,Anisole,5,development
+747,EXP0748,P3HT,1-Chloronaphthalene,5,development
+748,EXP0749,P3HT,1-Chloronaphthalene,5,development
+749,EXP0750,P3HT,1-Chloronaphthalene,5,development
+750,EXP0751,P3HT,Dimethylformamide,5,development
+751,EXP0752,P3HT,Dimethylformamide,5,development
+752,EXP0753,P3HT,Dimethylformamide,5,development
+753,EXP0754,P3HT,p-Xylene,5,development
+754,EXP0755,P3HT,p-Xylene,5,development
+755,EXP0756,P3HT,p-Xylene,5,development
+756,EXP0757,P3HT,Ethanol,5,development
+757,EXP0758,P3HT,Ethanol,5,development
+758,EXP0759,P3HT,Ethanol,5,development
+759,EXP0760,P3HT,PGMEA,5,development
+760,EXP0761,P3HT,PGMEA,5,development
+761,EXP0762,P3HT,PGMEA,5,development
+762,EXP0763,N2200-OEG,Chlorobenzene,19,holdout
+763,EXP0764,N2200-OEG,o-Dichlorobenzene,19,holdout
+764,EXP0765,N2200-OEG,Toluene,19,holdout
+765,EXP0766,N2200-OEG,Toluene,19,holdout
+766,EXP0767,N2200-OEG,Toluene,19,holdout
+767,EXP0768,N2200-OEG,p-Xylene,19,holdout
+768,EXP0769,N2200-OEG,p-Xylene,19,holdout
+769,EXP0770,N2200-OEG,p-Xylene,19,holdout
+770,EXP0771,N2200-OEG,Tetrachloroethylene,19,holdout
+771,EXP0772,N2200-OEG,Tetrachloroethylene,19,holdout
+772,EXP0773,N2200-OEG,Tetrachloroethylene,19,holdout

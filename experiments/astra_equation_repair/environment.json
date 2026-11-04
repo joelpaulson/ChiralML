@@ -1,0 +1,14 @@
+{
+  "python": "3.12.13 (main, Mar 10 2026, 18:18:07) [Clang 21.1.4 ]",
+  "packages": {
+    "numpy": "2.1.2",
+    "pandas": "2.3.2",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.7.1",
+    "torch": "2.15.0",
+    "sympy": "1.14.0",
+    "matplotlib": "3.10.5",
+    "openpyxl": "3.1.5"
+  },
+  "feature_generation_notebook_sha256": "ce1340effe662632cb07bb6b7dcb84b8f8f9bb95194b091f0bf2a9d0036c089e"
+}

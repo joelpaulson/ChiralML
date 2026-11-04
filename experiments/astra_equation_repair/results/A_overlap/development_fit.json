@@ -1,0 +1,39 @@
+{
+  "terms": [
+    "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+    "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+    "((Concentration_mg_mL*Backbone_fastsolv)*(Concentration_mg_mL/BB_conjugated_units))",
+    "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+    "Concentration_mg_mL*sqrt(MW_Mn/1000)*(BB_C_atoms/BB_hetero_atoms)"
+  ],
+  "intercept": -1.0977594049431139,
+  "effects": [
+    3.7109312713932985,
+    1.6280503295973061,
+    2.968062181785192,
+    -1.4610354071826808,
+    1.0406767237943113
+  ],
+  "mean": [
+    2481.143244435064,
+    -0.8768651422214052,
+    -18037.087561802953,
+    674.33191120761,
+    2825.2572580957562
+  ],
+  "sd": [
+    3137.0771605082973,
+    1.949606127996451,
+    23845.758467604064,
+    487.7047478633072,
+    2072.431242904218
+  ],
+  "raw_intercept": -0.4540558717584847,
+  "raw_coefficients": [
+    0.0011829263615537019,
+    0.8350662763203367,
+    0.0001244691875000532,
+    -0.0029957375104172177,
+    0.0005021525936541811
+  ]
+}

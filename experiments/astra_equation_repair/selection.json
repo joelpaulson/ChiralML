@@ -1,0 +1,20 @@
+{
+  "selected": "B32",
+  "reason": "Retain five-term B32. A failed its targeted low-M repair and worsened primary scores; B lost substantial predictive information. C has the expected negative selectivity coefficient in all 47 LOCO fits and improves loss in 32/47 chemistries (median delta -0.00659), which makes the hypothesis scientifically interesting. However, its pooled AP gain is only 0.001386 (paired chemistry-bootstrap 95% interval [-0.02208, 0.01812]); LOCO loss worsens by 0.001618 (interval [-0.01395, 0.01839]), macro chemistry loss worsens from 0.38199 to 0.39448, and complementary grouped-CV loss worsens in 16/20 repeats. The losses for AcDOT-[OE3]2, D18, and several DOT chemistries outweigh many small gains. Training improvement and a stable coefficient sign do not establish transfer benefit. These small and inconsistent gains do not justify a sixth term. This is a negative equation-repair result, not evidence that B32 is a physical law. All three allowed new structures have been used; no new candidates or structure decisions will follow the holdout.",
+  "frozen_utc": "2026-11-04T16:08:53.337831+00:00",
+  "registry_sha256": "8cc77f8e5a175727042ba053c13655d6fc0864ddeb423fe923c139d8a063e926",
+  "terms": [
+    "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+    "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+    "((Concentration_mg_mL*Backbone_fastsolv)*(Concentration_mg_mL/BB_conjugated_units))",
+    "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+    "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+  ],
+  "folds_sha256": "6cf754bd5439f643b7837c06a0e84aa4cf515defe8ae4f5492170d35a436b962",
+  "development_results_sha256": {
+    "B32": "aa41a6a00fc148e990434839304fe8c21e319571784df43b7e8bccdb2329e3dd",
+    "A_overlap": "f2702acc9db657a4caa56df0c1ec3d2ee60af00459566deebcbf273282070bf8",
+    "B_contrast": "2fa7fb8ae96868f2efb92abe5a64fa277a491eddc83134b22a92f481cf3224fc",
+    "C_selectivity": "84af672240dabdc303ae412f43aa6a41d3984b5240f9d2d5b5e66e831013f5fe"
+  }
+}

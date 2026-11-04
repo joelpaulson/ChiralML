@@ -1,0 +1,47 @@
+{
+  "B32": {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "((Concentration_mg_mL*Backbone_fastsolv)*(Concentration_mg_mL/BB_conjugated_units))",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "registered_utc": "2026-11-04T16:01:51.305582+00:00",
+    "rationale": "Original structure, coefficients refitted on development data."
+  },
+  "A_overlap": {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "((Concentration_mg_mL*Backbone_fastsolv)*(Concentration_mg_mL/BB_conjugated_units))",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "Concentration_mg_mL*sqrt(MW_Mn/1000)*(BB_C_atoms/BB_hetero_atoms)"
+    ],
+    "rationale": "Hypothesis A: B32 overstates the molecular-weight dependence of concentration-induced ordering. Replace only c*M*B/E with c*sqrt(M/M0)*B/E, M0=1000 g/mol; retain the other four terms. For an ideal coil with size Rg proportional to M^(1/2), overlap concentration c* scales as M/Rg^3 proportional to M^(-1/2); c/c* therefore scales as c*sqrt(M). This motivates a fixed exponent 1/2, not an exponent fitted or searched from these outcomes. B/E remains the original empirical backbone-composition modifier. These conjugated chains can be semiflexible and concentrations are high, so the overlap analogy is explicitly speculative. Expected: weaker increase with molecular weight, less disparity between low- and high-M samples, and improved low-M N2200 transfer without adding a coefficient. Concentration curvature and the nonzero dilute-limit probability remain unresolved. No monotonicity or coefficient-sign constraint is imposed; all coefficients are refitted with identical ridge penalty. Reject if improvement is confined to training or a few heavily sampled chemistries.",
+    "registered_utc": "2026-11-04T16:03:58.389309+00:00"
+  },
+  "B_contrast": {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "(Concentration_mg_mL**2*(Backbone_fastsolv-Monomer_fastsolv)/BB_conjugated_units)",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))"
+    ],
+    "rationale": "Hypothesis B: concentration-induced suppression of helical order depends on the solvent selectivity between backbone and full repeat unit, not solely absolute fragment solubility. Replace only c^2*Fbb/Q with c^2*(Fbb-Fmono)/Q, and restore B32's original c*Mn*B/E term after A failed. Five terms, no added coefficients. Fbb-Fmono = log10(Sbb/Smono) is a dimensionless log ratio with a meaningful zero (equal predicted fragment solubilities), unlike the original curvature zero at 1 mol/L. For Fbb < Fmono, side chains may sustain dissolution while the backbone preferentially associates; overly strong backbone association could compete with torsional/helical assembly. A positive fitted coefficient would encode increasing suppression with concentration for that situation. This sign is an expectation, not a constraint. Expected: stronger high-c suppression for large positive Fmono-Fbb, less suppression for small contrasts; help PII-2T false positives while sparing N2200. The denominator Q and quadratic concentration remain inherited empirical choices; no microscopic free-energy derivation is asserted. FASTSOLV predicts small-molecule fragment solubilities, not polymer saturation concentrations; this difference is a proxy, not a measured solvent selectivity or Flory-Huggins parameter. A clear failure would indicate that absolute backbone solubility carries useful information lost by a pure contrast.",
+    "registered_utc": "2026-11-04T16:05:23.256168+00:00"
+  },
+  "C_selectivity": {
+    "terms": [
+      "((SC_C_atoms-BB_C_atoms)*(Concentration_mg_mL*SC_n_branch_points))",
+      "(Solvent_NumHAcceptors*(SC_n_units*Backbone_fastsolv))",
+      "((Concentration_mg_mL*Backbone_fastsolv)*(Concentration_mg_mL/BB_conjugated_units))",
+      "((SC_C_atoms-BB_C_atoms)*(SC_n_units*BB_C_atoms))",
+      "((Concentration_mg_mL*MW_Mn)*(BB_C_atoms/BB_hetero_atoms))",
+      "Concentration_mg_mL*(Monomer_fastsolv-Backbone_fastsolv)"
+    ],
+    "rationale": "Hypothesis C: absolute backbone solubility and relative solvation encode different aspects of assembly. Keep B32 intact and add c*(Fmono-Fbb) as one sixth interaction. The existing quadratic term describes empirical high-concentration curvature; the new linear term allows the concentration slope to depend on whether the side-chain-bearing repeat unit is preferentially solvated relative to its backbone. The new term vanishes as c tends to zero and at equal predicted fragment solubilities. It changes the location of a concentration maximum without changing the original curvature sign. Its low-order form is the leading concentration-dependent correction and avoids asserting that selectivity must enter with exactly the same quadratic scaling and coefficient as absolute backbone solubility (the restriction tested in B). Expected coefficient is negative if backbone-selective association competes with helical ordering: high positive Fmono-Fbb would lower high-c PII-2T false positives. The sign remains unconstrained. Solubility contrast is still a computed proxy, not a measured transfer free energy. Accept added complexity only if primary LOCO ranking and probability quality improve with reasonable chemistry-wise consistency; retain B32 if benefits are small or inconsistent. This is proposal 3 of 3, with no exponent, scale, or regularization tuning.",
+    "registered_utc": "2026-11-04T16:06:15.492604+00:00"
+  }
+}
