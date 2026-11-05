@@ -1,0 +1,7 @@
+protocol,model_a,model_b,both_wrong,a_only_wrong,b_only_wrong,both_correct,jaccard
+development_LOCO,B32,RF15,95,43,132,361,0.35185185185185186
+development_LOCO,B32,RF41,98,40,77,416,0.4558139534883721
+development_LOCO,RF15,RF41,139,88,36,368,0.5285171102661597
+holdout,B32,RF15,9,8,13,112,0.3
+holdout,B32,RF41,10,7,12,113,0.3448275862068966
+holdout,RF15,RF41,21,1,1,119,0.9130434782608695

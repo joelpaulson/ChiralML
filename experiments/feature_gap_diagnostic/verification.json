@@ -1,0 +1,32 @@
+{
+  "source_files_unchanged": 112,
+  "matched_rows_and_folds": true,
+  "no_chemistry_overlap_in_LOCO_or_holdout": true,
+  "B32_LOCO_and_holdout_train_only_standardization_verified": true,
+  "max_B32_logit_reconstruction_error": 0.0,
+  "RF_path_probability_reconstruction_tolerance": 1e-12,
+  "observations": 773,
+  "development_chemistries": 47,
+  "holdout_chemistries": 12,
+  "fixed_RF_fits": 296,
+  "exported_chemistry_row_reconciliation_passed": true,
+  "independent_sklearn_RF_loss_checks_passed": true,
+  "diagnostic_script_sha256": "6ec2e9bb564238fea0b0918e7e543fc4718e3de0fbcae882b1262b33e52cc527",
+  "output_sha256": {
+    "RF15_descriptor_support.csv": "ce8ab77b24023bacfb98614d4fa4f12f1c8d09e03431d26b6351e463c3c5b60c",
+    "RF15_predictions.npz": "145f17728e506bef1065efec0fd7273e2fc37bd5687242b9d6944d247a4c521e",
+    "RF41_descriptor_support.csv": "f0e4a6cf5fecd3146759a98071e97d90f6c4fdc99215b500aca34a85184cbaa1",
+    "RF41_predictions.npz": "bd87bf64a3987677b29a03382f7c7e2f1b44dc2c0ced967ad0f7ad9ffcb663d4",
+    "condition_audit.csv": "901012227a4127d4670e25a6255ecc6189576bf457cad28e2e2900edd1f8c7d1",
+    "conflicting_conditions.csv": "5cc3718e0af0ce7b9c3150743427877ef76ccbfc31011cb3a97b3076bf769442",
+    "descriptor_contributions.csv": "06fec42187a8b464650da0b99ae6f85987d0f1bf368ad081dc12850e22c32d79",
+    "failure_overlap.csv": "31dadea7d2dab00606bd9127775510d09fb0a7df3e1ce2158e71143c7143618e",
+    "failure_patterns.csv": "4e8ecde58bc32fe5dbecd02881fb0a9e6569be955de1112eb1edac8073faa87e",
+    "metrics.csv": "8cc2724fd941fca773f79876ac8785f549094d152a6c224adcc2278840140234",
+    "pair_repeat_metrics.csv": "06e77fc7d34e326950225f69f8e57b4eb0af1e4c58e946461e2d9da76a472ea8",
+    "paired_loss_intervals.csv": "8bedbc093289d517fb01c39930599dddad426d521e19e1535a4460886fcaa804",
+    "per_chemistry_comparison.csv": "9a4d3eb0e334a8208415a8c0b1f8727177889fcd500408e632cad549681cc263",
+    "phase_audit.csv": "a02b7e73c79230e9351a4abc70a6c97e5401db3a5e67cc3de93ed33d4880c48f",
+    "predictions.csv": "4068105c31a19ff04a59a5e02e47e9cfce8409cca83553a5f3e6da8c205be1cb"
+  }
+}

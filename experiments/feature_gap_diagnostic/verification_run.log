@@ -1,0 +1,10 @@
+               protocol model   n  positives       ap  roc_auc  log_loss  macro_log_loss  errors    ap_sd  roc_auc_sd  log_loss_sd
+       development_LOCO   B32 631        251 0.786868 0.863834  0.447150        0.381987   138.0      NaN         NaN          NaN
+       development_LOCO  RF15 631        251 0.628901 0.676740  0.675398        0.624356   227.0      NaN         NaN          NaN
+       development_LOCO  RF41 631        251 0.701122 0.756333  0.595966        0.578423   175.0      NaN         NaN          NaN
+                holdout   B32 142         20 0.655716 0.759426  0.484564        0.969891    17.0      NaN         NaN          NaN
+                holdout  RF15 142         20 0.510536 0.723770  0.414302        0.633661    22.0      NaN         NaN          NaN
+                holdout  RF41 142         20 0.546197 0.716803  0.448717        0.609798    22.0      NaN         NaN          NaN
+pair_CV_mean_20_repeats   B32 631        251 0.792941 0.869314  0.439066             NaN     NaN 0.010969    0.006292     0.011495
+pair_CV_mean_20_repeats  RF15 631        251 0.809843 0.863075  0.457507             NaN     NaN 0.011733    0.008071     0.016845
+pair_CV_mean_20_repeats  RF41 631        251 0.802544 0.866493  0.450597             NaN     NaN 0.015230    0.010339     0.018324

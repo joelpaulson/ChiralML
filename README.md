@@ -97,3 +97,18 @@ The analysis notebooks were tested with Python 3.12.3 and require:
 - [`Figure7.ipynb`](data_analysis/notebooks/Figure7.ipynb) reproduces Figure
   7a-d: Thiophene- and NDI-family SHAP plots, Thiophene-family outcome
   fractions, and the N2200 concentration series in chlorobenzene.
+
+## Symbolic regression and diagnostic experiments
+
+- [Symbolic-regression analysis](symbolic_regression/README.md): SyMANTIC
+  equations and comparison with the original random forest.
+- [Completed Astra equation-repair experiment](experiments/astra_equation_repair/REPORT.md):
+  three bounded structural interventions, the retained B32 equation, and
+  chemistry-based evaluation. The [experiment guide](experiments/astra_equation_repair/README.md)
+  documents the preserved results and reproduction commands.
+- [Feature-gap diagnostic](experiments/feature_gap_diagnostic/REPORT.md):
+  matched comparisons of fixed B32, RF15, and RF41, including failure overlap,
+  descriptor associations, and outcome/replicate audits. The
+  [59-chemistry comparison table](experiments/feature_gap_diagnostic/per_chemistry_comparison.csv)
+  contains the detailed results. This diagnostic performs no new equation
+  fitting or model tuning and preserves the completed Astra experiment.

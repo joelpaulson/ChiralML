@@ -1,0 +1,17 @@
+protocol,B32,RF15,RF41,n
+development_LOCO,False,False,False,341
+development_LOCO,False,False,True,20
+development_LOCO,False,True,False,75
+development_LOCO,False,True,True,57
+development_LOCO,True,False,False,27
+development_LOCO,True,False,True,16
+development_LOCO,True,True,False,13
+development_LOCO,True,True,True,82
+holdout,False,False,False,112
+holdout,False,False,True,0
+holdout,False,True,False,1
+holdout,False,True,True,12
+holdout,True,False,False,7
+holdout,True,False,True,1
+holdout,True,True,False,0
+holdout,True,True,True,9
